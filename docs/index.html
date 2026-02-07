@@ -67,7 +67,7 @@
         <div class="hero-container">
             <div class="hero-content">
                 <span class="hero-eyebrow">Quantum Healing Hypnosis Technique</span>
-                <h1>Unexpected Answers<br/><em>Lasting Clarity</em></h1>
+                <h1>Unexpected Answers<br/><em><span class="alt-letter">L</span>asting Clarity</em></h1>
                 <p>A rare and immersive inner experience—deeply relaxing, illuminating, and purpose-driven—through QHHT.</p>
                 <div class="hero-buttons">
                     <a href="contact.html" class="btn btn-primary">Book Your Session</a>
@@ -144,27 +144,27 @@
     <div class="process-section">
         <section style="padding: 0; max-width: 1100px;">
             <div class="section-header">
-                <h2>Your Session Journey</h2>
+                <h2>Your Session <span class="alt-letter">J</span>ourney</h2>
                 <p>What to expect during your transformative experience</p>
             </div>
             <div class="process-steps">
                 
                 <div class="process-step">
                     <div class="step-number">1</div>
-                    <h3>Conversation</h3>
-                    <p>We begin with a thorough conversation about your life. You share your intentions for the session and your list of questions.</p>
+                    <h3>Prepare Questions</h3>
+                    <p>Prepare a list of questions you have about your life for the session. These can include relationships, health, life’s purpose, or anything else you’re curious about.</p>
                 </div>
                 
                 <div class="process-step">
                     <div class="step-number">2</div>
-                    <h3>Hypnosis</h3>
-                    <p>You'll be guided into a deep, relaxed state to access whatever is most relevant for you—memories, symbols, insights, or past-life imagery.</p>
+                    <h3>Conversation</h3>
+                    <p>We begin with a thorough conversation about your life. You share your intentions and questions for the session.</p>
                 </div>
                 
                 <div class="process-step">
                     <div class="step-number">3</div>
-                    <h3>Dialogue</h3>
-                    <p>Your Higher Self answers questions and provides healing.</p>
+                    <h3>Hypnosis</h3>
+                    <p>You'll be guided into a deep, relaxed state to access whatever is most relevant for you—memories, symbols, insights, or past-life imagery.</p>
                 </div>
                 
                 <div class="process-step">
@@ -185,9 +185,9 @@
 
             <!-- Clickable Address -->
             <div class="location-address">
-                <a href="https://www.google.com/maps/search/?api=1&query=560+Delaware+Ave,+Albany,+NY+12209" target="_blank" rel="noopener noreferrer">
+                <a href="{{location.maps_link}}" target="_blank" rel="noopener noreferrer">
                     <span class="location-icon">📍</span>
-                    560 Delaware Ave, Albany, NY 12209
+                    {{location.address}}
                 </a>
             </div>
 
@@ -198,7 +198,7 @@
             <!-- Embedded Map -->
             <div class="location-map-container">
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2932.8!2d-73.7686!3d42.6526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89de0a34cc4ffeed%3A0x46e0d0000000000!2s560%20Delaware%20Ave%2C%20Albany%2C%20NY%2012209!5e0!3m2!1sen!2sus!4v1234567890"
+                    src="{{location.embed_url}}"
                     class="location-map"
                     allowfullscreen=""
                     loading="lazy"
