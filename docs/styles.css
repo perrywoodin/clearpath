@@ -435,14 +435,6 @@ section {
     margin-bottom: 1rem;
 }
 
-.process-section .section-header h2::first-letter {
-    font-family: var(--font-body);
-}
-
-.alt-letter {
-    font-family: var(--font-body);
-    font-style: normal;
-}
 
 .section-header p {
     font-size: 1.1rem;
