@@ -19,7 +19,7 @@ marked.setOptions({
 // Paths
 const CONTENT_DIR = path.join(__dirname, 'content');
 const TEMPLATES_DIR = path.join(__dirname, 'templates');
-const OUTPUT_DIR = path.join(__dirname, 'public');
+const OUTPUT_DIR = path.join(__dirname, 'docs');
 const BLOG_CONTENT_DIR = path.join(CONTENT_DIR, 'blog');
 const BLOG_OUTPUT_DIR = path.join(OUTPUT_DIR, 'blog');
 
@@ -300,8 +300,8 @@ function build() {
         copyAssets();
 
         console.log('\n✅ Build complete!\n');
-        console.log('Output in: public/\n');
-        console.log('Open public/index.html in a browser to preview.\n');
+        console.log('Output in: docs/\n');
+        console.log('Open docs/index.html in a browser to preview.\n');
     } catch (error) {
         console.error('\n❌ Build failed:', error.message);
         console.error(error.stack);
