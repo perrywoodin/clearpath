@@ -1,0 +1,143 @@
+# ============================================
+# CAPITAL REGION QHHT - LOCATION PAGE
+# Target: Multiple "[City] QHHT" searches
+# Priority: 0.7
+# ============================================
+
+page_slug: capital-region-qhht
+
+# SEO Meta Data
+seo:
+  title: "QHHT Capital Region NY | Saratoga, Troy, Schenectady | Clear Path"
+  description: "QHHT sessions serving the entire Capital Region including Saratoga Springs, Troy, Schenectady, Albany, and surrounding areas. Certified practitioner, convenient location, profound healing."
+
+# Schema Markup Data
+schema:
+  business_description: "QHHT (Quantum Healing Hypnosis Technique) practitioner serving the New York Capital Region including Albany, Saratoga Springs, Troy, Schenectady, and surrounding communities."
+  service_name: "QHHT for Capital Region Clients"
+  service_description: "Professional QHHT sessions at our Albany location, conveniently accessible from all Capital Region communities. Quantum healing, past life regression, and transformational hypnosis."
+  faq_schema:
+    items:
+      - question: "Do you serve clients from outside Albany?"
+        answer: "Yes! Clear Path serves the entire Capital Region including Saratoga Springs, Troy, Schenectady, and surrounding areas. Many clients travel 30-60 minutes for sessions."
+        last: false
+      - question: "Where exactly is your office located?"
+        answer: "Clear Path QHHT is located at 560 Delaware Ave, Albany, NY 12209 in the Center Square neighborhood. Easy access from I-90, I-87, and Route 9 with free street parking."
+        last: false
+      - question: "Why travel to Albany for QHHT instead of finding someone local?"
+        answer: "QHHT is a specialized modality requiring extensive training. There are very few certified practitioners in the Capital Region. The depth and quality of the session is worth the short drive—many clients say it's the most transformative experience of their life."
+        last: true
+
+# Hero Section
+hero:
+  title: "QHHT for the Capital Region"
+  subtitle: "Serving Saratoga Springs, Troy, Schenectady, Albany, and surrounding communities with professional quantum healing and past life regression"
+
+# Introduction
+intro:
+  title: "QHHT Sessions for Capital Region Residents"
+  paragraphs:
+    - "Looking for QHHT in the Capital Region? You've found the right place. Clear Path is the Capital Region's certified QHHT practitioner, offering professional quantum healing sessions at our Albany location—conveniently accessible from Saratoga Springs, Troy, Schenectady, and surrounding communities."
+    - "QHHT (Quantum Healing Hypnosis Technique) is a specialized healing modality that requires extensive training and certification. Unlike traditional hypnotherapy or life coaching, QHHT accesses the deepest level of consciousness to facilitate past life regression, direct communication with your Higher Self, and profound physical and emotional healing."
+    - "While the drive to Albany might seem inconvenient at first, most clients say the session is so transformative that they'd travel much farther. This is not a quick therapy appointment—it's a 4-6 hour journey into the depths of your consciousness that can shift your entire life trajectory."
+
+# Service Area
+service_area:
+  title: "Cities We Serve"
+  intro_text:
+    - "Clear Path QHHT welcomes clients from throughout the Capital Region and beyond. Here's what you need to know about traveling to our Albany office from your area:"
+  cities:
+    - name: "Albany"
+      description: "Office located at 560 Delaware Ave in Center Square. Easy access from I-90 and I-87. Free street parking available on Delaware Ave and surrounding streets."
+    - name: "Saratoga Springs"
+      description: "Just 35 minutes from downtown Saratoga to our Albany office. Take I-87 South to exit 23 (I-787), then Delaware Ave exit. Many Saratoga clients come regularly."
+      distance: "~35 minutes"
+    - name: "Troy"
+      description: "Only 15 minutes from Troy. Cross the Hudson River via Route 2 or I-787, take Delaware Ave exit. Very convenient for Troy and East Greenbush residents."
+      distance: "~15 minutes"
+    - name: "Schenectady"
+      description: "About 20 minutes from downtown Schenectady via I-90 East to I-787 North, then Delaware Ave exit. Easy drive with minimal traffic."
+      distance: "~20 minutes"
+    - name: "Clifton Park"
+      description: "30 minutes from Clifton Park. Take I-87 South to I-787, then Delaware Ave exit. Convenient for Clifton Park, Halfmoon, and Malta residents."
+      distance: "~30 minutes"
+    - name: "Glens Falls"
+      description: "50 minutes from Glens Falls via I-87 South. Worth the drive for clients seeking deep transformational healing. Consider making a day of it—Albany has great restaurants and parks."
+      distance: "~50 minutes"
+  office_details:
+    title: "Office Location & Directions"
+    paragraphs:
+      - "Clear Path QHHT is located at 560 Delaware Ave, Albany, NY 12209 in the quiet Center Square neighborhood."
+      - "From I-90: Take exit 5 (Corporate Woods Blvd), follow signs to I-787 North, take Delaware Ave exit (exit 4), turn left onto Delaware Ave. Office is 1 mile ahead on the left."
+      - "From I-87 (Northway): Take exit 23 (I-787/Albany), follow I-787 to Delaware Ave exit (exit 4), turn left onto Delaware Ave. Office is 1 mile ahead on the left."
+      - "Parking: Free street parking available on Delaware Ave and surrounding streets. Several paid parking lots within 2-minute walk if street parking is full."
+
+# Why Choose
+why_choose:
+  title: "Why Travel to Albany for QHHT?"
+  paragraphs:
+    - "You might be wondering: Is it worth driving to Albany for a QHHT session? Here's what makes Clear Path worth the journey:"
+  benefits:
+    items:
+      - icon: "🎓"
+        title: "Certified Expertise"
+        description: "Certified through the Quantum Healing Hypnosis Academy with extensive training in the Dolores Cannon method. QHHT is not something that can be learned casually—it requires rigorous training and practice."
+      - icon: "🔬"
+        title: "Science + Spirit Integration"
+        description: "Laura's background in biology and neuroscience brings a unique grounded, scientific perspective to quantum healing. Perfect for both skeptics and spiritual seekers."
+      - icon: "💚"
+        title: "Personal Healing Experience"
+        description: "Laura discovered QHHT through her own healing from PTSD and tick-borne illness. She knows what it's like to search desperately for answers—and to find them through this work."
+      - icon: "🏠"
+        title: "Dedicated Healing Space"
+        description: "The office is specifically designed for deep hypnotic work—quiet, comfortable, private, and energetically held for transformation. Not a shared therapy office or wellness center."
+
+# How It Works
+how_it_works:
+  title: "Planning Your Trip to Albany for QHHT"
+  intro_text:
+    - "Here's how to make your QHHT session as smooth and transformative as possible:"
+  steps:
+    - title: "Book Your Session"
+      description: "Use the contact form to schedule your session. Sessions are available on select days each week. Book 2-4 weeks in advance for best availability."
+    - title: "Block Out the Day"
+      description: "QHHT sessions last 4-6 hours. Don't schedule anything else that day—you'll want time to integrate the experience. Plan to arrive 10-15 minutes early to settle in."
+    - title: "Prepare Your Questions"
+      description: "You'll receive detailed preparation instructions including how to formulate questions for your Higher Self. This is key to getting the most from your session."
+    - title: "Travel to Albany"
+      description: "Use the directions above. Give yourself extra time if you're unfamiliar with Albany. The Center Square area is quiet and easy to navigate."
+    - title: "Experience Your Session"
+      description: "Relax and trust the process. Your Higher Self knows exactly what you need. Laura will guide you safely through the entire journey."
+    - title: "Drive Home Mindfully"
+      description: "Most clients feel peaceful and slightly dreamy after sessions—totally safe to drive, but take your time. Some clients prefer to stay in Albany for dinner to fully integrate before heading home."
+
+# About Laura
+about_laura:
+  title: "Your Capital Region QHHT Practitioner"
+  paragraphs:
+    - "I'm Laura Welles, a certified QHHT practitioner serving the Capital Region from my Albany office. I discovered QHHT in 2020 when I was navigating PTSD and a complex health crisis. That first session was so transformative—revealing the roots of my conditions in past lives and childhood trauma—that I knew I had to train in this modality."
+    - "As a biologist with a background in neuroscience and ecology, I bring both scientific rigor and spiritual openness to my practice. I understand how consciousness and the body are interconnected, and I respect both the mystery and the mechanics of healing."
+    - "Whether you're driving from Saratoga, Troy, Schenectady, or beyond, I'm honored to hold space for your healing journey. The clients who travel to see me often become the most dedicated—there's something powerful about making the commitment to show up for yourself in this way."
+
+# FAQ
+faq:
+  title: "FAQs for Capital Region Clients"
+  items:
+    - question: "Is it really worth traveling to Albany for QHHT?"
+      answer: "Yes. QHHT is not a modality you can find everywhere—it requires extensive training and certification. Most clients say the session is the most transformative experience they've ever had, worth traveling much farther. The 20-50 minute drive is a small investment for potentially life-changing healing."
+    - question: "Can I do a QHHT session virtually instead of driving to Albany?"
+      answer: "No. QHHT requires the deepest level of hypnosis (Somnambulistic state), which is only reliably achievable in person. The safety, comfort, and energetic container of a physical healing space is essential for the depth of work we do."
+    - question: "Should I plan to stay overnight in Albany?"
+      answer: "Not necessary unless you're coming from 90+ minutes away. Most Capital Region clients drive home the same day. You'll feel peaceful and clear after the session—totally safe to drive. Some clients enjoy staying for dinner in Albany to extend the integration time."
+    - question: "How far in advance should I book?"
+      answer: "Book 2-4 weeks in advance for best availability. Sessions are offered on select days, and spaces fill up. If you have urgent needs or limited availability, reach out—sometimes there are last-minute openings."
+    - question: "What if I need to reschedule?"
+      answer: "Life happens. Please provide at least 72 hours notice if you need to reschedule. This allows time to offer your spot to another client. Last-minute cancellations may forfeit your deposit."
+    - question: "Are there hotels near your office if I want to make a weekend of it?"
+      answer: "Yes! The Hampton Inn Albany is 5 minutes away. The Morgan State House (boutique hotel) is a 10-minute walk. Downtown Albany hotels are 10-15 minutes. Combining your session with a weekend in Albany can be a beautiful self-care retreat."
+
+# CTA
+cta:
+  title: "Ready to Begin Your Healing Journey?"
+  description: "Serving Saratoga Springs, Troy, Schenectady, Albany, and the entire Capital Region. Schedule your QHHT session today."
+  button_text: "Book Your Session →"

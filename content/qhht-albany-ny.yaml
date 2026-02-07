@@ -1,0 +1,138 @@
+# ============================================
+# QHHT ALBANY NY - LOCATION PAGE
+# Target keyword: "QHHT Albany NY" (exact match)
+# Priority: 0.9 (highest priority location page)
+# ============================================
+
+page_slug: qhht-albany-ny
+
+# SEO Meta Data
+seo:
+  title: "QHHT Albany NY | Quantum Healing Hypnosis in Albany | Clear Path"
+  description: "QHHT sessions in Albany, NY with certified practitioner Laura Welles. Quantum Healing Hypnosis Technique for deep healing and past life regression. Located at 560 Delaware Ave, serving Albany and the Capital Region."
+
+# Schema Markup Data
+schema:
+  business_description: "Professional QHHT (Quantum Healing Hypnosis Technique) practitioner in Albany, NY offering quantum healing, past life regression, and deep transformational healing sessions."
+  service_name: "QHHT (Quantum Healing Hypnosis Technique)"
+  service_description: "A powerful hypnosis modality developed by Dolores Cannon that guides you into the deepest state of relaxation to access your Higher Self, explore past lives, and facilitate profound healing."
+  faq_schema:
+    items:
+      - question: "What is QHHT?"
+        answer: "QHHT (Quantum Healing Hypnosis Technique) is a powerful hypnosis modality developed by Dolores Cannon. It guides you into the Somnambulistic state to access your Higher Self, explore past lives, and facilitate profound physical and emotional healing."
+        last: false
+      - question: "Where is Clear Path QHHT located in Albany?"
+        answer: "Clear Path QHHT is located at 560 Delaware Ave, Albany, NY 12209, in the heart of Albany's Center Square neighborhood. Street parking and nearby lots available."
+        last: false
+      - question: "How long is a QHHT session in Albany?"
+        answer: "QHHT sessions at Clear Path typically last 4-6 hours, including the interview, hypnosis journey, and integration time. Plan for a full day to give yourself the best experience."
+        last: false
+      - question: "What areas does Clear Path QHHT serve?"
+        answer: "Clear Path serves Albany and the entire Capital Region, including Saratoga Springs, Troy, Schenectady, and surrounding communities within about 50 miles of Albany."
+        last: true
+
+# Hero Section
+hero:
+  title: "QHHT Albany NY"
+  subtitle: "Experience quantum healing and past life regression with certified practitioner Laura Welles in Albany, New York"
+
+# Introduction
+intro:
+  title: "What is QHHT in Albany, NY?"
+  paragraphs:
+    - "QHHT (Quantum Healing Hypnosis Technique) is a transformative healing modality developed by the late Dolores Cannon over her 45+ year career. Through guided hypnosis, QHHT allows you to access the Somnambulistic state—the deepest level of relaxation where profound healing and transformation occur."
+    - "As a certified QHHT practitioner in Albany, NY, I guide you through a safe, structured journey to connect with your Higher Self, explore past lives, and receive answers to your most important questions. Many clients experience spontaneous physical healing, emotional release, and profound insights about their life's purpose."
+    - "Located at 560 Delaware Ave in Albany's Center Square neighborhood, Clear Path QHHT offers a comfortable, private healing space where you can explore the depths of your consciousness and access your inner wisdom."
+
+# Why Choose
+why_choose:
+  title: "Why Choose QHHT in Albany?"
+  paragraphs:
+    - "Albany's only dedicated QHHT practitioner trained directly in the Dolores Cannon method, I bring a unique combination of scientific background, intuitive gifts, and deep personal healing experience to every session."
+    - "Here's what makes QHHT sessions at Clear Path unique:"
+  benefits:
+    items:
+      - icon: "🧬"
+        title: "Science Meets Spirit"
+        description: "As a biologist with a background in neuroscience and ecology, I bridge the worlds of science and spirituality, making QHHT accessible whether you're skeptical or spiritually-oriented."
+      - icon: "🌱"
+        title: "Personal Healing Journey"
+        description: "I discovered QHHT through my own healing from PTSD and tick-borne illness. I know what it's like to seek answers when conventional methods fall short."
+      - icon: "📍"
+        title: "Convenient Albany Location"
+        description: "Located in Center Square, easily accessible from I-90, I-87, and Route 9. Serving Albany, Saratoga, Troy, Schenectady, and the entire Capital Region."
+      - icon: "🎯"
+        title: "Specialized Training"
+        description: "Certified through the Quantum Healing Hypnosis Academy with extensive training in the Dolores Cannon method and ongoing mentorship with experienced practitioners."
+
+# How It Works
+how_it_works:
+  title: "What to Expect in Your Albany QHHT Session"
+  intro_text:
+    - "QHHT sessions at Clear Path follow the proven Dolores Cannon method, adapted to your unique needs and intentions."
+  steps:
+    - title: "Interview & Intention Setting"
+      description: "We begin with a 1-2 hour conversation where I get to know you, understand your life story, and clarify the questions you want answered. This builds trust and rapport essential for deep hypnotic work."
+    - title: "Guided Hypnosis Journey"
+      description: "Using gentle visualization and relaxation techniques, I guide you into the Somnambulistic state where you can access past lives, other dimensions, or whatever your Higher Self wants you to experience."
+    - title: "Connection with Higher Self"
+      description: "Once you're in a deep state, I facilitate direct communication with your Higher Self (also called the Subconscious or SC). This wise aspect of you provides answers, healing, and profound insights."
+    - title: "Body Scan & Healing"
+      description: "Your Higher Self performs a body scan and initiates healing on physical, emotional, and spiritual levels. Many clients experience immediate relief from chronic conditions."
+    - title: "Integration & Recording"
+      description: "After the session, we discuss your experience and you receive an audio recording to revisit the insights and continue integrating the healing."
+
+# About Laura
+about_laura:
+  title: "Your Albany QHHT Practitioner"
+  paragraphs:
+    - "I'm Laura Welles, a certified QHHT practitioner and biologist based in Albany, NY. My journey to QHHT began in 2020 when I was navigating PTSD and a complex tick-borne illness that conventional medicine couldn't fully address."
+    - "Through my first QHHT session, I experienced profound healing that set me on a path of recovery and transformation. That experience was so powerful that I trained to become a practitioner myself, wanting to offer this gift to others."
+    - "With a background in biology and neuroscience, I bring both scientific understanding and spiritual openness to my practice. Whether you're a skeptic looking for answers or a seasoned spiritual seeker, I create a safe, non-judgmental space for your unique healing journey."
+
+# Service Area
+service_area:
+  title: "Serving Albany and the Capital Region"
+  intro_text:
+    - "Clear Path QHHT is conveniently located in Albany and serves clients throughout the Capital Region and beyond."
+  cities:
+    - name: "Albany"
+      description: "Based in the heart of Albany at 560 Delaware Ave in the Center Square neighborhood. Easy access from I-90 and I-87."
+    - name: "Saratoga Springs"
+      description: "Serving Saratoga Springs and surrounding areas. Just a 35-minute drive from downtown Saratoga."
+      distance: "~35 minutes from Clear Path"
+    - name: "Troy"
+      description: "Convenient for Troy residents. Located just across the Hudson River, about 15 minutes away."
+      distance: "~15 minutes from Clear Path"
+    - name: "Schenectady"
+      description: "Easily accessible from Schenectady and the surrounding communities."
+      distance: "~20 minutes from Clear Path"
+  office_details:
+    title: "Office Location & Parking"
+    paragraphs:
+      - "Clear Path QHHT is located at 560 Delaware Ave, Albany, NY 12209 in a quiet, professional building in the Center Square neighborhood."
+      - "Parking: Free street parking is available on Delaware Ave and surrounding streets. There are also several nearby parking lots within a 2-minute walk."
+      - "The office is a peaceful, comfortable healing space designed to help you relax deeply and feel safe during your transformative journey."
+
+# FAQ
+faq:
+  title: "Common Questions About QHHT in Albany"
+  items:
+    - question: "How is QHHT different from traditional hypnotherapy?"
+      answer: "QHHT guides you into the Somnambulistic state—the deepest level of hypnosis where you access your Higher Self and past lives. Traditional hypnotherapy typically works at lighter levels for behavior change. QHHT is designed for spiritual exploration and profound healing, not just symptom relief."
+    - question: "Do I need to believe in past lives for QHHT to work?"
+      answer: "No. Many clients start as skeptics. Whether you interpret the experiences as literal past lives, metaphor, or imagination, the healing and insights that emerge are real and transformative. Your Higher Self will show you exactly what you need to see."
+    - question: "What can QHHT help with?"
+      answer: "QHHT can address physical ailments, chronic pain, anxiety, depression, relationship patterns, life purpose questions, and spiritual seeking. Clients often experience spontaneous healing of conditions that haven't responded to conventional treatment."
+    - question: "Is QHHT safe?"
+      answer: "Yes, QHHT is completely safe. You remain in control throughout and can return to normal awareness at any time. As a certified practitioner, I'm trained to create a safe container for your journey and navigate any challenges that arise."
+    - question: "How do I prepare for a QHHT session in Albany?"
+      answer: "Once you book, I'll send detailed preparation instructions including how to formulate your questions, what to eat (or not eat) before the session, and what to bring. The most important preparation is intention setting and an open mind."
+    - question: "Do you offer virtual QHHT sessions?"
+      answer: "QHHT sessions are conducted in-person only at my Albany location. The in-person format is essential for reaching the deep Somnambulistic state and providing the full healing experience. Virtual sessions don't allow for the same depth."
+
+# CTA
+cta:
+  title: "Ready to Experience QHHT in Albany?"
+  description: "Take the first step toward profound healing and self-discovery. Book your session or schedule a free 20-minute discovery call to learn more."
+  button_text: "Schedule Your Session →"

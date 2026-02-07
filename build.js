@@ -231,6 +231,68 @@ function buildThankYouPage() {
 }
 
 /**
+ * Build location pages (QHHT Albany, Past Life Regression, etc.)
+ */
+function buildLocationPages() {
+    console.log('Building location pages...');
+
+    const template = readTemplate('location-page.html');
+
+    // List of location page content files
+    const locationPages = [
+        'qhht-albany-ny.yaml',
+        'past-life-regression-albany.yaml',
+        'hypnotherapy-albany-ny.yaml',
+        'quantum-healing-albany.yaml',
+        'capital-region-qhht.yaml'
+    ];
+
+    for (const yamlFile of locationPages) {
+        const filepath = path.join(CONTENT_DIR, yamlFile);
+
+        // Check if file exists before trying to read it
+        if (!fs.existsSync(filepath)) {
+            console.log(`  Skipping ${yamlFile} (file not found)`);
+            continue;
+        }
+
+        const data = readYaml(yamlFile);
+        const slug = data.page_slug;
+
+        console.log(`  Building ${slug}.html...`);
+
+        const html = renderTemplate(template, data);
+        fs.writeFileSync(path.join(OUTPUT_DIR, `${slug}.html`), html);
+    }
+}
+
+/**
+ * Build the resources page
+ */
+function buildResourcesPage() {
+    console.log('Building resources.html...');
+
+    const data = readYaml('resources.yaml');
+    const template = readTemplate('resources.html');
+
+    const html = renderTemplate(template, data);
+    fs.writeFileSync(path.join(OUTPUT_DIR, 'resources.html'), html);
+}
+
+/**
+ * Build the testimonials page
+ */
+function buildTestimonialsPage() {
+    console.log('Building testimonials.html...');
+
+    const data = readYaml('testimonials.yaml');
+    const template = readTemplate('testimonials.html');
+
+    const html = renderTemplate(template, data);
+    fs.writeFileSync(path.join(OUTPUT_DIR, 'testimonials.html'), html);
+}
+
+/**
  * Build blog pages (listing and individual posts)
  */
 function buildBlogPages() {
@@ -310,6 +372,9 @@ function build() {
         buildServicesPage();
         buildContactPage();
         buildThankYouPage();
+        buildLocationPages();
+        buildResourcesPage();
+        buildTestimonialsPage();
         buildBlogPages();
         copyAssets();
 

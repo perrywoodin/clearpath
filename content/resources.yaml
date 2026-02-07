@@ -1,0 +1,118 @@
+# ============================================
+# RESOURCES PAGE CONTENT
+# Holistic health partners in Albany for backlinks
+# ============================================
+
+# SEO Meta Data
+seo:
+  title: "Holistic Health Resources Albany NY | Recommended Practitioners | Clear Path"
+  description: "Trusted holistic health practitioners in Albany, NY. Recommended resources for yoga, massage, acupuncture, therapy, and complementary healing modalities."
+
+# Page Header
+header:
+  title: Holistic Health Resources
+  subtitle: Trusted practitioners and complementary healing modalities in the Albany area
+
+# Intro Section
+intro:
+  title: "Supporting Your Healing Journey"
+  paragraphs:
+    - "QHHT is powerful on its own, but healing often benefits from a holistic approach. I'm honored to recommend these trusted practitioners and resources in the Albany area who share my commitment to deep, transformational healing."
+    - "Many of my clients find that combining QHHT with other modalities—bodywork, therapy, energy healing, movement practices—creates a comprehensive healing journey that addresses body, mind, and spirit."
+    - "These recommendations are based on personal experience, client feedback, and shared values. I have no financial relationship with any of these practitioners—I simply trust their work and believe they offer valuable support."
+
+# Resources by Category
+categories:
+  - category_title: "Yoga & Movement"
+    description: "Movement practices that support integration of QHHT insights and energy shifts"
+    practitioners:
+      - name: "Yoga Mandali"
+        specialty: "Yoga Studio"
+        description: "Welcoming community yoga studio in Albany offering classes for all levels. Their trauma-informed approach and emphasis on mindfulness make them a perfect complement to QHHT work."
+        website: "https://yogamandali.com"
+        location: "Albany, NY"
+
+      - name: "Urban Yoga Spa"
+        specialty: "Yoga & Wellness"
+        description: "Boutique yoga studio with a focus on healing and restoration. Excellent for clients working through physical healing alongside spiritual exploration."
+        website: "https://urbanyogaspa.com"
+        location: "Albany, NY"
+
+  - category_title: "Bodywork & Massage"
+    description: "Somatic practices that help release stored trauma and integrate energetic shifts"
+    practitioners:
+      - name: "Local Massage Therapists"
+        specialty: "Therapeutic Massage"
+        description: "Several skilled massage therapists practice in the Delaware Ave area. Massage can be deeply supportive after QHHT sessions, helping to release physical tension and integrate energetic shifts. Ask me for current recommendations."
+        website: ""
+        location: "Albany, NY"
+
+  - category_title: "Acupuncture & Traditional Chinese Medicine"
+    description: "Energy medicine that complements QHHT's consciousness-based healing"
+    practitioners:
+      - name: "Local Acupuncturists"
+        specialty: "Acupuncture & TCM"
+        description: "Albany has several excellent acupuncturists who understand energy flow and holistic healing. Acupuncture can support the physical integration of QHHT healing. Contact me for referrals."
+        website: ""
+        location: "Albany, NY"
+
+  - category_title: "Therapy & Counseling"
+    description: "Traditional therapy can provide ongoing support for integrating QHHT insights"
+    practitioners:
+      - name: "Local Therapists"
+        specialty: "Trauma-Informed Therapy"
+        description: "While QHHT addresses root causes at a deep level, ongoing therapy provides a valuable container for integration, especially for complex trauma. I can recommend therapists who are open to spiritual approaches."
+        website: ""
+        location: "Albany Area"
+
+  - category_title: "Spiritual & Metaphysical"
+    description: "Resources for continuing your spiritual exploration"
+    practitioners:
+      - name: "Four Seasons Natural Health Food Store"
+        specialty: "Health Food & Metaphysical Supplies"
+        description: "Local health food store with a selection of metaphysical books, crystals, and spiritual tools. Great for finding resources to support your ongoing journey."
+        website: "https://fourseasonsnaturalfood.com"
+        location: "Albany, NY"
+
+# Book Recommendations
+books:
+  title: "Recommended Reading"
+  intro: "Books that deepen your understanding of QHHT, consciousness, and healing"
+  items:
+    - title: "The Three Waves of Volunteers and the New Earth"
+      author: "Dolores Cannon"
+      description: "Essential reading for understanding the bigger picture of why souls incarnate on Earth at this time. Written by the founder of QHHT."
+
+    - title: "The Convoluted Universe (Book 1-5)"
+      author: "Dolores Cannon"
+      description: "Transcripts from actual QHHT sessions revealing the nature of reality, consciousness, and the universe. Mind-expanding and validating."
+
+    - title: "Between Death and Life"
+      author: "Dolores Cannon"
+      description: "Conversations with spirits about what happens between lives. Profoundly comforting for anyone dealing with grief or fear of death."
+
+    - title: "The Body Keeps the Score"
+      author: "Bessel van der Kolk"
+      description: "Groundbreaking book on trauma and the body. Helps understand why somatic and consciousness-based approaches like QHHT are so effective."
+
+    - title: "Many Lives, Many Masters"
+      author: "Brian Weiss, M.D."
+      description: "A psychiatrist's introduction to past life regression through his work with a patient. Excellent for skeptics and those new to the concept."
+
+# Online Resources
+online:
+  title: "Online Resources"
+  items:
+    - name: "Quantum Healing Hypnosis Academy"
+      description: "Official training organization for QHHT practitioners. Learn more about the method and find practitioners worldwide."
+      url: "https://www.qhhtofficial.com"
+
+    - name: "Dolores Cannon's YouTube Channel"
+      description: "Videos of Dolores teaching and discussing QHHT, metaphysics, and consciousness. Great for learning more about the method's founder."
+      url: "https://www.youtube.com/@DoloresCannon"
+
+# CTA
+cta:
+  title: "Questions About Any of These Resources?"
+  description: "I'm happy to provide more specific recommendations based on your needs or connect you with practitioners I trust."
+  button_text: "Get in Touch →"

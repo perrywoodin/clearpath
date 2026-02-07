@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{seo.description}}">
+    <title>{{seo.title}}</title>
+    <link rel="canonical" href="https://clearpath.love/testimonials.html">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Review Schema Markup -->
+    {{#testimonials}}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "LocalBusiness",
+            "name": "Clear Path QHHT",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "560 Delaware Ave",
+                "addressLocality": "Albany",
+                "addressRegion": "NY",
+                "postalCode": "12209"
+            }
+        },
+        "reviewBody": "{{quote}}",
+        "author": {
+            "@type": "Person",
+            "name": "{{author}}"
+        },
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "5",
+            "bestRating": "5"
+        },
+        "datePublished": "{{date}}"
+    }
+    </script>
+    {{/testimonials}}
+</head>
+<body>
+    <!-- Background Shapes -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <div class="logo">Clear Path</div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" onclick="toggleMenu()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>{{header.title}}</h1>
+        <p>{{header.subtitle}}</p>
+    </header>
+
+    <!-- Introduction -->
+    <section>
+        <div style="max-width: 900px; margin: 0 auto;">
+            <h2 class="section-title">{{intro.title}}</h2>
+            {{#intro.paragraphs}}
+            <p>{{.}}</p>
+            {{/intro.paragraphs}}
+        </div>
+    </section>
+
+    <!-- Testimonials Grid -->
+    <section class="section-light">
+        <div style="max-width: 1200px; margin: 0 auto;">
+            <div class="testimonials-grid">
+                {{#testimonials}}
+                <div class="testimonial-card">
+                    <div class="testimonial-quote">{{quote}}</div>
+                    <div class="testimonial-author">— {{author}}</div>
+                    <div class="testimonial-location">{{location}}</div>
+                    <div class="testimonial-date">{{date}}</div>
+                </div>
+                {{/testimonials}}
+            </div>
+        </div>
+    </section>
+
+    <!-- Future Note Section -->
+    {{#future_note}}
+    <section>
+        <div style="max-width: 800px; margin: 0 auto;">
+            <h2 class="section-title">{{title}}</h2>
+            {{#paragraphs}}
+            <p>{{.}}</p>
+            {{/paragraphs}}
+        </div>
+    </section>
+    {{/future_note}}
+
+    <!-- CTA Section -->
+    <section class="section-light">
+        <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+            <h2 class="section-title">{{cta.title}}</h2>
+            <p style="font-size: 1.1rem; margin-bottom: 2rem;">{{cta.description}}</p>
+            <a href="contact.html" class="btn btn-primary">{{cta.button_text}}</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Clear Path QHHT. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

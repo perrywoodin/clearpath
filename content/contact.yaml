@@ -22,6 +22,12 @@ form:
   # Replace YOUR_FORM_ID with your actual form ID
   formspree_id: mzdabvdz
 
+# --- CONTACT PREFERENCE ---
+contact_preference:
+  title: "Prefer Email Communication?"
+  description: "I respond to all contact form inquiries within 24 hours. No phone calls needed—I'll coordinate everything via email, making it easy to schedule at your convenience."
+  icon: "✉️"
+
 # --- CONTACT INFO CARDS ---
 contact_info:
   section_title: Location

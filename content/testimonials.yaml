@@ -1,0 +1,60 @@
+# ============================================
+# TESTIMONIALS PAGE CONTENT
+# Client reviews and feedback (with permission)
+# ============================================
+
+# SEO Meta Data
+seo:
+  title: "QHHT Testimonials Albany NY | Client Reviews | Clear Path"
+  description: "Read real testimonials from Clear Path QHHT clients in Albany, NY. Discover how quantum healing has transformed lives through past life regression and deep healing."
+
+# Page Header
+header:
+  title: Client Testimonials
+  subtitle: Real experiences from QHHT sessions at Clear Path
+
+# Intro Section
+intro:
+  title: "Hear From My Clients"
+  paragraphs:
+    - "QHHT is a deeply personal journey, and every session is unique. These testimonials come from clients who've generously shared their experiences to help others understand what's possible through this transformative work."
+    - "While results vary and I can never guarantee specific outcomes, these stories represent the kinds of healing, insights, and shifts that commonly occur in QHHT sessions."
+    - "All testimonials are shared with permission. Names may be abbreviated to protect privacy."
+
+# Testimonials (will be populated with real client testimonials over time)
+# For now, these are placeholder structures showing the format
+testimonials:
+  - quote: "Placeholder for first client testimonial. This will be replaced with actual client feedback once sessions have been completed and clients provide written permission to share their testimonials."
+    author: "Client Initial"
+    location: "Albany, NY"
+    date: "2026"
+
+  - quote: "Placeholder for second client testimonial. Each testimonial will include the client's experience, what shifted for them, and how the session impacted their life journey."
+    author: "Client Initial"
+    location: "Saratoga Springs, NY"
+    date: "2026"
+
+  - quote: "Placeholder for third client testimonial. Testimonials will be added as the practice grows and clients share their permission to publish their experiences."
+    author: "Client Initial"
+    location: "Troy, NY"
+    date: "2026"
+
+# Schema markup data for testimonials
+schema:
+  business_name: "Clear Path QHHT"
+  business_url: "https://clearpath.love"
+  # Testimonial schema will be added as real testimonials are collected
+
+# CTA
+cta:
+  title: "Ready for Your Own Transformation?"
+  description: "Experience the profound healing and insights that QHHT can bring to your life. Schedule your session or book a free discovery call to learn more."
+  button_text: "Book Your Session →"
+
+# Note for future
+future_note:
+  title: "Building Our Testimonials"
+  paragraphs:
+    - "As a growing practice, I'm currently building this collection of client experiences. Each person who completes a QHHT session is invited to share their feedback if they feel called to do so."
+    - "I never pressure clients to provide testimonials. The depth and personal nature of this work means some prefer to keep their experiences private, and that's completely respected."
+    - "If you've had a session with me and would like to share your experience to help others, please reach out. Your story could be exactly what someone else needs to hear to take the first step on their healing journey."
