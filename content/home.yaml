@@ -12,7 +12,7 @@ seo:
 hero:
   eyebrow: Quantum Healing Hypnosis Technique
   # Use *asterisks* around words for italic/emphasis
-  title: "Unexpected Answers<br/>*Lasting Clarity*"
+  title: "Unexpected Answers<br/><em><span class=\"alt-letter\">L</span>asting Clarity</em>"
   description: A rare and immersive inner experience—deeply relaxing, illuminating, and purpose-driven—through QHHT.
   primary_button:
     text: Book Your Session
@@ -57,17 +57,17 @@ benefits:
 
 # --- PROCESS SECTION (how sessions work) ---
 process:
-  title: Your Session Journey
+  title: Your Session <span class="alt-letter">J</span>ourney
   subtitle: What to expect during your transformative experience
   steps:
+    - title: Prepare Questions
+      description: Prepare a list of questions you have about your life for the session. These can include relationships, health, life’s purpose, or anything else you’re curious about.
+
     - title: Conversation
-      description: We begin with a thorough conversation about your life. You share your intentions for the session and your list of questions.
+      description: We begin with a thorough conversation about your life. You share your intentions and questions for the session.
 
     - title: Hypnosis
       description: You'll be guided into a deep, relaxed state to access whatever is most relevant for you—memories, symbols, insights, or past-life imagery.
-
-    - title: Dialogue
-      description: Your Higher Self answers questions and provides healing.
 
     - title: Integration
       description: Receive a recording to continue your healing journey.
@@ -76,9 +76,6 @@ process:
 location:
   title: "Serving the Capital Region"
   subtitle: "Conveniently located in Albany's wellness community"
-  address: "560 Delaware Ave, Albany, NY 12209"
-  maps_link: "https://www.google.com/maps/search/?api=1&query=560+Delaware+Ave,+Albany,+NY+12209"
-  embed_url: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2932.8!2d-73.7686!3d42.6526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89de0a34cc4ffeed%3A0x46e0d0000000000!2s560%20Delaware%20Ave%2C%20Albany%2C%20NY%2012209!5e0!3m2!1sen!2sus!4v1234567890"
   description: "Clear Path is located at 560 Delaware Ave in Albany, NY, within a building shared with complementary healing practitioners including massage therapy and acupuncture. Our dedicated office space is designed to feel calm, welcoming, and supportive—the perfect environment for your QHHT session."
   serving_areas:
     - "Albany, NY"
