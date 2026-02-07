@@ -1,73 +1,62 @@
 # Clear Path QHHT Website
 
-A simple static website for Clear Path QHHT practice.
+A static website for Clear Path QHHT practice, featuring automatic healing and transformation guidance.
 
-## Quick Start
+🌐 **Live Site:** https://clearpath.love
 
-```bash
-# Install dependencies (first time only)
-npm install
+## How It Works
 
-# Build the site
-npm run build
+This site uses **GitHub Actions** to automatically rebuild and deploy when you make changes. No manual build steps needed!
 
-# Preview by opening public/index.html in your browser
-```
+### Editing Content (Choose One Method):
+
+**Option 1: Edit on GitHub.com** (Easiest - no software needed)
+1. Go to https://github.com/perrywoodin/clearpath
+2. Navigate to `content/` folder and click any `.yaml` file
+3. Click the pencil icon (✏️) to edit
+4. Make changes → Click "Commit changes"
+5. Site automatically rebuilds in 1-2 minutes!
+
+**Option 2: Edit Locally** (For multiple changes)
+1. Edit files in the `content/` folder
+2. Save changes
+3. Run: `git add -A && git commit -m "Update content" && git push`
+4. Site automatically rebuilds in 1-2 minutes!
+
+📝 **See EDITING-INSTRUCTIONS.md for detailed guidance**
 
 ## Project Structure
 
 ```
 clearpath.love/
-├── content/           ← Edit content here
-│   ├── home.yaml
-│   ├── about.yaml
-│   ├── contact.yaml
-│   ├── blog.yaml
-│   └── blog/          ← Blog posts (Markdown)
-├── templates/         ← HTML templates
-├── styles.css         ← Site styling
-├── build.js           ← Build script
-└── public/            ← Generated site (deploy this folder)
-    ├── index.html
-    ├── about.html
-    ├── contact.html
-    ├── blog.html
-    ├── blog/
-    └── styles.css
+├── content/              ← Edit content here
+│   ├── home.yaml        ← Home page content
+│   ├── about.yaml       ← About page & practitioner info
+│   ├── contact.yaml     ← Contact form & location
+│   ├── blog.yaml        ← Blog listing
+│   └── blog/            ← Blog posts (Markdown)
+├── templates/            ← HTML templates
+├── styles.css            ← Site styling
+├── build.js              ← Build script (runs automatically)
+├── docs/                 ← Generated site (auto-deployed to GitHub Pages)
+└── .github/workflows/    ← GitHub Actions (auto-build)
 ```
 
-## Editing Content
+## Hosting & Deployment
 
-See **EDITING-GUIDE.md** for detailed instructions on:
-- Editing YAML content files
-- Creating blog posts
-- Running the build
-- Common tasks
+- **Hosting:** GitHub Pages
+- **Domain:** clearpath.love (via Porkbun DNS)
+- **Auto-Deploy:** GitHub Actions rebuilds on every push
+- **SSL/HTTPS:** Enabled via GitHub Pages
 
-## Deployment
+## Contact Form
 
-After running `npm run build`, upload the entire `public/` folder to your web host.
+✅ Already configured with Formspree (form ID: `mzdabvdz`)
+- Form submissions redirect to: https://clearpath.love/thank-you.html
+- Notifications sent to your email
 
-### Recommended: Netlify Drop (Free)
+## Site Details
 
-1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
-2. Drag the `public/` folder to upload
-3. Connect your custom domain in Site Settings
-
-### Contact Form Setup
-
-The contact form uses Formspree:
-1. Create a free account at [formspree.io](https://formspree.io)
-2. Create a new form and copy the form ID
-3. Update `YOUR_FORM_ID` in `content/contact.yaml`
-4. Run `npm run build`
-
-## Personalizing the Site
-
-Key items to update in the content files:
-
-1. **contact.yaml**: Replace `YOUR_FORM_ID` with your Formspree ID
-2. **contact.yaml**: Add your phone number and location
-3. **about.yaml**: Add your name, bio, and credentials
-4. **about.yaml**: Set `has_photo: true` and add `practitioner-photo.jpg` to root folder
-5. **contact.yaml**: Update FAQ answers (pricing, virtual sessions, etc.)
+- **Practitioner:** Laura Welles
+- **Location:** 558 Delaware Ave, Albany, NY 12209
+- **Email Hosting:** iCloud (MX records configured at Porkbun)
