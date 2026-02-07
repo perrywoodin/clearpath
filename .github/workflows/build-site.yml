@@ -10,6 +10,10 @@ on:
       - 'styles.css'
       - 'build.js'
       - 'practitioner-photo.jpg'
+      - '.github/workflows/**'
+
+permissions:
+  contents: write
 
 jobs:
   build:

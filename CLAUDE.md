@@ -5,7 +5,7 @@ Static site for a QHHT (Quantum Healing Hypnosis Technique) practice at clearpat
 ## Build
 
 ```bash
-npm run build        # Generates public/ from templates + content
+npm run build        # Generates docs/ from templates + content
 ```
 
 Dependencies: `js-yaml`, `marked`. Build script: `build.js`.
@@ -17,15 +17,15 @@ Content and presentation are separated:
 - **`content/`** — YAML files (`home.yaml`, `about.yaml`, `contact.yaml`, `blog.yaml`) and Markdown blog posts in `content/blog/`
 - **`templates/`** — HTML templates with mustache-style placeholders (`{{variable}}`, `{{#array}}...{{/array}}`, `{{^condition}}...{{/condition}}`)
 - **`styles.css`** — All site styling (single file, root level)
-- **`build.js`** — Reads YAML/Markdown content, renders templates, outputs to `public/`
-- **`public/`** — Generated output (deploy this folder). Do not edit directly.
+- **`build.js`** — Reads YAML/Markdown content, renders templates, outputs to `docs/`
+- **`docs/`** — Generated output (deploy this folder). Do not edit directly.
 
 ## Editing workflow
 
 1. Edit content in `content/*.yaml` or `content/blog/*.md`
 2. Edit layout/structure in `templates/*.html`
 3. Edit styling in `styles.css`
-4. Run `npm run build` to regenerate `public/`
+4. Run `npm run build` to regenerate `docs/`
 
 ## Key conventions
 
