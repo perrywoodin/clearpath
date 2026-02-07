@@ -12,11 +12,11 @@ header:
 # Replace the placeholder text with your own information
 practitioner:
   section_title: Meet Your Practitioner
-  name: "[Your Name]"
-  credentials: "Certified QHHT Practitioner, Level [1/2/3]"
+  name: "Laura Welles"
+  credentials: "Certified QHHT Practitioner"
   # Add your photo: save it as "practitioner-photo.jpg" in the root folder
   # Then change has_photo to true
-  has_photo: false
+  has_photo: true
 
   # Write your bio paragraphs below (as many as you need)
   bio:
