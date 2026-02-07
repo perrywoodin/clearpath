@@ -58,5 +58,5 @@ clearpath.love/
 ## Site Details
 
 - **Practitioner:** Laura Welles
-- **Location:** 558 Delaware Ave, Albany, NY 12209
+- **Location:** 560 Delaware Ave, Albany, NY 12209
 - **Email Hosting:** iCloud (MX records configured at Porkbun)
