@@ -60,8 +60,7 @@ process:
   title: Your Session Journey
   subtitle: What to expect during your transformative experience
   steps:
-    - title: Interview
-      title: Conversation
+    - title: Conversation
       description: We begin with a thorough conversation about your life. You share your intentions for the session and your list of questions.
 
     - title: Hypnosis
