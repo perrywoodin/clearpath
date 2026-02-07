@@ -12,7 +12,7 @@ seo:
 hero:
   eyebrow: Quantum Healing Hypnosis Technique
   # Use *asterisks* around words for italic/emphasis
-  title: "Unexpected Answers<br/><em><span class=\"alt-letter\">L</span>asting Clarity</em>"
+  title: "Unexpected Answers<br/>*Lasting Clarity*"
   description: A rare and immersive inner experience—deeply relaxing, illuminating, and purpose-driven—through QHHT.
   primary_button:
     text: Book Your Session
@@ -57,7 +57,7 @@ benefits:
 
 # --- PROCESS SECTION (how sessions work) ---
 process:
-  title: Your Session <span class="alt-letter">J</span>ourney
+  title: Your Session Journey
   subtitle: What to expect during your transformative experience
   steps:
     - title: Prepare Questions
