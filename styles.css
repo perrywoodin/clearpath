@@ -435,6 +435,10 @@ section {
     margin-bottom: 1rem;
 }
 
+.process-section .section-header h2::first-letter {
+    font-family: var(--font-body);
+}
+
 .section-header p {
     font-size: 1.1rem;
     max-width: 550px;
