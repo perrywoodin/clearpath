@@ -33,3 +33,8 @@ Content and presentation are separated:
 - Templates use a custom mustache-like engine (not Handlebars/Mustache library) — see `renderTemplate()` in `build.js`
 - The footer is duplicated across all templates (`index.html`, `about.html`, `contact.html`, `blog.html`, `blog/post.html`) — changes must be applied to each
 - Contact form uses Formspree (form ID configured in `content/contact.yaml`)
+
+## Git conventions
+
+- Do NOT include "Co-Authored-By: Claude" lines in commit messages
+- Keep commit messages concise and descriptive
