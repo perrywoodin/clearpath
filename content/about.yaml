@@ -18,23 +18,23 @@ practitioner:
   # Then change has_photo to true
   has_photo: true
 
- # Write your bio paragraphs below (as many as you need)
- bio:
-  - "It’s interesting how life unfolds in ways we never expect. My path to Quantum Healing Hypnosis Technique began through my own healing journey, shaped by experiences that invited deep reflection, surrender, and transformation."
+  # Write your bio paragraphs below (as many as you need)
+  bio:
+    - "It's interesting how life unfolds in ways we never expect. My path to Quantum Healing Hypnosis Technique began through my own healing journey, shaped by experiences that invited deep reflection, surrender, and transformation."
 
-  - "I experienced PTSD following two formative events: my child’s medical emergency and my own experience with tick-borne illnesses, which deeply shaped my nervous system and sense of well-being. These experiences changed how I related to myself and to healing. As I sought relief and healing, I was drawn to alternative healing modalities that not only supported my recovery, but also deepened my understanding of healing beyond conventional frameworks."
+    - "I experienced PTSD following two formative events: my child's medical emergency and my own experience with tick-borne illnesses, which deeply shaped my nervous system and sense of well-being. These experiences changed how I related to myself and to healing. As I sought relief and healing, I was drawn to alternative healing modalities that not only supported my recovery, but also deepened my understanding of healing beyond conventional frameworks."
 
-  - "Before this chapter of my life, I earned a degree in biology and spent two decades working in environmental conservation and fundraising. Curiosity, service, and respect for living systems have always guided me. Discovering QHHT allowed me to bring these values together, bridging scientific inquiry with the innate wisdom of consciousness."
+    - "Before this chapter of my life, I earned a degree in biology and spent two decades working in environmental conservation and fundraising. Curiosity, service, and respect for living systems have always guided me. Discovering QHHT allowed me to bring these values together, bridging scientific inquiry with the innate wisdom of consciousness."
 
-  - "I completed my QHHT certification in January 2025. As part of my training, I facilitated 25 full QHHT sessions, gaining extensive hands-on experience supporting clients through deep and meaningful explorations. Since certification, I have had the honor of facilitating deeply cathartic and illuminating sessions that continue to inspire humility and gratitude as clients access clarity, insight, and healing from within themselves."
+    - "I completed my QHHT certification in January 2025. As part of my training, I facilitated 25 full QHHT sessions, gaining extensive hands-on experience supporting clients through deep and meaningful explorations. Since certification, I have had the honor of facilitating deeply cathartic and illuminating sessions that continue to inspire humility and gratitude as clients access clarity, insight, and healing from within themselves."
 
-  - "In life and in my work, I follow three simple credos: Do no harm. Be curious and seek joy. Love oneself and others."
+    - "In life and in my work, I follow three simple credos: Do no harm. Be curious and seek joy. Love oneself and others."
 
-  - "QHHT naturally embodies these principles. My role is to offer a safe, compassionate, and grounded space where curiosity is welcomed, self-trust is strengthened, and meaningful insight can arise."
+    - "QHHT naturally embodies these principles. My role is to offer a safe, compassionate, and grounded space where curiosity is welcomed, self-trust is strengthened, and meaningful insight can arise."
 
-  - "I would be honored to support you on your own journey of discovery and healing, and I look forward to facilitating your session."
- 
- approach:
+    - "I would be honored to support you on your own journey of discovery and healing, and I look forward to facilitating your session."
+
+  approach:
     title: My Approach
     description: "Describe your approach to QHHT sessions. Do you create a particular atmosphere? How do you help clients feel safe and comfortable? What can clients expect from working with you specifically?"
 
