@@ -3,6 +3,11 @@
 # Edit the text below, then run: npm run build
 # ============================================
 
+# SEO Meta Data
+seo:
+  title: "QHHT Blog: Healing Stories & Insights | Clear Path Albany NY"
+  description: "Explore QHHT insights, consciousness exploration, and healing stories from Albany practitioner Laura Welles. Learn about past life regression, quantum healing, and spiritual transformation."
+
 # --- PAGE HEADER ---
 header:
   title: Insights & Stories

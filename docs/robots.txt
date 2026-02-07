@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://clearpath.love/sitemap.xml
+
+# Optional: Block thank you page from indexing (form confirmation)
+Disallow: /thank-you.html

@@ -3,6 +3,11 @@
 # Edit the text below, then run: npm run build
 # ============================================
 
+# SEO Meta Data
+seo:
+  title: "QHHT Practitioner Albany NY | Laura Welles | Clear Path"
+  description: "Meet Laura Welles, Certified QHHT Practitioner in Albany, NY. 25+ sessions facilitated. Biology background, trauma-informed approach. Discover her journey to quantum healing."
+
 # --- PAGE HEADER ---
 header:
   title: About Clear Path

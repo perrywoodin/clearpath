@@ -3,6 +3,11 @@
 # Edit the text below, then run: npm run build
 # ============================================
 
+# SEO Meta Data
+seo:
+  title: "QHHT Sessions Albany NY | Quantum Healing | Clear Path"
+  description: "Experience profound healing with QHHT in Albany, NY. Certified practitioner Laura Welles offers past life regression, Higher Self connection & transformation. Book your session today."
+
 # --- HERO SECTION (top of page) ---
 hero:
   eyebrow: Quantum Healing
@@ -19,7 +24,7 @@ hero:
 # --- INTRO SECTION (below hero) ---
 intro:
   icon: "🌱"
-  text: Quantum Healing Hypnosis Technique is a powerful method developed by Dolores Cannon that allows you to access the deepest levels of consciousness. Through this gentle process, you can explore past lives, connect with your Higher Self, and receive profound healing and guidance for your life's journey.
+  text: Located in Albany, New York, Clear Path offers professional Quantum Healing Hypnosis Technique sessions in a welcoming, dedicated healing space. QHHT is a powerful method developed by Dolores Cannon that allows you to access the deepest levels of consciousness. Through this gentle process, you can explore past lives, connect with your Higher Self, and receive profound healing and guidance for your life's journey.
 
 # --- BENEFITS SECTION ---
 benefits:
@@ -66,6 +71,17 @@ process:
 
     - title: Integration
       description: Receive a recording to continue your healing journey.
+
+# --- LOCATION SECTION ---
+location:
+  title: "Serving the Capital Region"
+  subtitle: "Conveniently located in Albany's wellness community"
+  description: "Clear Path is located at 558 Delaware Ave in Albany, NY, within a building shared with complementary healing practitioners including massage therapy and acupuncture. Our dedicated office space is designed to feel calm, welcoming, and supportive—the perfect environment for your QHHT session."
+  serving_areas:
+    - "Albany, NY"
+    - "Saratoga Springs"
+    - "Troy & Schenectady"
+    - "Capital Region"
 
 # --- CALL TO ACTION SECTION (bottom of page) ---
 cta:

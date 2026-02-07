@@ -3,6 +3,11 @@
 # Edit the text below, then run: npm run build
 # ============================================
 
+# SEO Meta Data
+seo:
+  title: "QHHT Pricing Albany NY | $350 Sessions | Clear Path"
+  description: "QHHT sessions $350 in Albany, NY. 4-6 hour past life regression with Higher Self dialogue. Free 20-min discovery call. Payment plans available. Book your transformation today."
+
 # --- PAGE HEADER ---
 header:
   title: Services & Pricing
