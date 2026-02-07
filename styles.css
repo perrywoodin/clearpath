@@ -439,6 +439,11 @@ section {
     font-family: var(--font-body);
 }
 
+.alt-letter {
+    font-family: var(--font-body);
+    font-style: normal;
+}
+
 .section-header p {
     font-size: 1.1rem;
     max-width: 550px;
