@@ -1,0 +1,80 @@
+# ============================================
+# ABOUT PAGE CONTENT
+# Edit the text below, then run: npm run build
+# ============================================
+
+# --- PAGE HEADER ---
+header:
+  title: About Clear Path
+  subtitle: Your guide to transformation and healing
+
+# --- PRACTITIONER SECTION ---
+# Replace the placeholder text with your own information
+practitioner:
+  section_title: Meet Your Practitioner
+  name: "[Your Name]"
+  credentials: "Certified QHHT Practitioner, Level [1/2/3]"
+  # Add your photo: save it as "practitioner-photo.jpg" in the root folder
+  # Then change has_photo to true
+  has_photo: false
+
+  # Write your bio paragraphs below (as many as you need)
+  bio:
+    - "Write your personal story here. Share what brought you to QHHT, your journey of discovery, and what inspired you to become a practitioner. This is your opportunity to connect with potential clients on a personal level."
+
+    - "Include your background, training, and any relevant experience. Mention when you completed your QHHT certification, any additional healing modalities you practice, and what makes your approach unique."
+
+    - "Share your philosophy and what you hope to help clients achieve. What drives your passion for this work? What do you find most rewarding about facilitating QHHT sessions?"
+
+  approach:
+    title: My Approach
+    description: "Describe your approach to QHHT sessions. Do you create a particular atmosphere? How do you help clients feel safe and comfortable? What can clients expect from working with you specifically?"
+
+# --- ABOUT QHHT SECTION ---
+qhht:
+  section_title: About QHHT
+
+  origins:
+    title: The Origins of QHHT
+    paragraphs:
+      - "Quantum Healing Hypnosis Technique (QHHT) was developed by the late Dolores Cannon over her 45-year career as a hypnotherapist. Through her work with thousands of clients, Dolores discovered that by inducing clients into the Somnambulistic state—the deepest level of hypnosis—she could help them access the part of themselves that holds all the answers."
+
+      - "Dolores called this the \"Subconscious\" or \"Higher Self\" (SC). This part of ourselves is connected to Source energy and has unlimited knowledge and an extraordinary ability to heal the physical body when appropriate."
+
+  how_it_works:
+    title: How QHHT Works
+    cards:
+      - title: The Somnambulistic State
+        description: "This is the same state you experience twice daily: just before waking and just before falling asleep. In QHHT sessions, you're guided into this natural state where you can access deeper levels of consciousness while remaining aware and able to speak."
+
+      - title: Past Life Regression
+        description: "During a QHHT session, clients often experience past lives that are relevant to their current life situations. These experiences provide profound insights and understanding about recurring patterns, relationships, and life challenges."
+
+      - title: The Higher Self
+        description: "Once in the Somnambulistic state, direct communication with your Higher Self becomes possible. Your Higher Self knows everything about you, your life purpose, and has the ability to provide instantaneous healing when appropriate."
+
+      - title: Healing & Transformation
+        description: "The Higher Self has the ability to identify and explain the cause of any problem or disease, and can perform instantaneous healings when appropriate. Many physical, emotional, and spiritual issues can be resolved."
+
+  unique:
+    title: What Makes QHHT Unique
+    intro: "Unlike other hypnosis techniques, QHHT is designed to facilitate direct contact with your Higher Self. This makes it an incredibly powerful tool for:"
+    items:
+      - Understanding your life purpose and soul contracts
+      - Healing physical conditions at their energetic root
+      - Releasing limiting beliefs and emotional trauma
+      - Gaining clarity on important life decisions
+      - Connecting with guides, loved ones, and higher wisdom
+      - Exploring consciousness beyond the physical realm
+
+  legacy:
+    title: The Legacy of Dolores Cannon
+    description: "Dolores Cannon (1931-2014) dedicated her life to perfecting this technique and training practitioners worldwide. Her legacy continues through the thousands of certified QHHT practitioners who carry on her work, helping people access their own infinite wisdom and healing potential."
+
+# --- CALL TO ACTION ---
+cta:
+  title: Ready to Experience QHHT?
+  description: If you feel called to explore your consciousness and connect with your Higher Self, I'd be honored to guide you on this journey.
+  button:
+    text: Book Your Session
+    link: contact.html

@@ -1,0 +1,28 @@
+# ============================================
+# BLOG PAGE CONTENT
+# Edit the text below, then run: npm run build
+# ============================================
+
+# --- PAGE HEADER ---
+header:
+  title: Insights & Stories
+  subtitle: Exploring consciousness, healing, and transformation
+
+# --- CALL TO ACTION ---
+cta:
+  title: Ready to Experience Your Own Journey?
+  description: If these stories resonate with you, it might be time to explore your own consciousness and healing potential.
+  button:
+    text: Book Your Session
+    link: contact.html
+
+# ============================================
+# BLOG POSTS
+#
+# Each blog post is a separate .md file in content/blog/
+# The posts below are automatically read from those files.
+# To add a new post:
+#   1. Create a new .md file in content/blog/
+#   2. Copy the format from an existing post
+#   3. Run: npm run build
+# ============================================

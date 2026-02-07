@@ -1,0 +1,53 @@
+# ============================================
+# CONTACT PAGE CONTENT
+# Edit the text below, then run: npm run build
+# ============================================
+
+# --- PAGE HEADER ---
+header:
+  title: Get in Touch
+  subtitle: Begin your healing journey today
+
+# --- FORM SECTION ---
+form:
+  section_title: Schedule Your Session
+  intro: Ready to connect with your Higher Self and experience profound healing? Fill out the form below and I'll get back to you within 24-48 hours.
+
+  # Get your Formspree ID at https://formspree.io (free account)
+  # Replace YOUR_FORM_ID with your actual form ID
+  formspree_id: mzdabvdz
+
+# --- CONTACT INFO CARDS ---
+contact_info:
+  section_title: Location
+
+  location:
+    icon: "📍"
+    title: Location
+    value: "558 Delaware Ave"
+    note: "Albany, NY  12209"
+
+# --- NEXT STEPS ---
+next_steps:
+  title: What Happens Next?
+  paragraphs:
+    - "After you submit your inquiry, I'll review your message and respond within 24-48 hours. We'll discuss your intentions for the session, answer any questions you have, and find a date that works for both of us."
+    - "QHHT sessions require adequate time and preparation. Please ensure you can commit to a 4-6 hour session before booking."
+
+# --- FAQ SECTION ---
+faq:
+  section_title: Frequently Asked Questions
+  items:
+    - question: How long is a QHHT session?
+      answer: Sessions typically last 4-6 hours. This includes the interview, the hypnosis journey, and time for integration afterward. Please plan for a full day.
+
+    - question: What's the investment?
+      # Update this with your actual pricing
+      answer: "[Add your pricing information here, e.g., Sessions are $XXX. Payment is due at time of booking.]"
+
+    - question: Do you offer virtual sessions?
+      # Update this with your session format
+      answer: "[Specify if you offer in-person only, virtual only, or both]"
+
+    - question: How do I prepare for a session?
+      answer: Once your session is booked, I'll provide you with detailed preparation instructions, including how to formulate your questions and what to expect on the day of your session.

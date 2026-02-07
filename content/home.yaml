@@ -1,0 +1,76 @@
+# ============================================
+# HOME PAGE CONTENT
+# Edit the text below, then run: npm run build
+# ============================================
+
+# --- HERO SECTION (top of page) ---
+hero:
+  eyebrow: Quantum Healing
+  # Use *asterisks* around words for italic/emphasis
+  title: Find Your Way Back to *Wholeness*
+  description: Experience the gentle power of QHHT to heal, discover your purpose, and reconnect with the wisdom that lives within you.
+  primary_button:
+    text: Book Your Session
+    link: contact.html
+  secondary_button:
+    text: Learn About QHHT
+    link: about.html#qhht
+
+# --- INTRO SECTION (below hero) ---
+intro:
+  icon: "🌱"
+  text: Quantum Healing Hypnosis Technique is a powerful method developed by Dolores Cannon that allows you to access the deepest levels of consciousness. Through this gentle process, you can explore past lives, connect with your Higher Self, and receive profound healing and guidance for your life's journey.
+
+# --- BENEFITS SECTION ---
+benefits:
+  title: How QHHT Can Help You
+  subtitle: Discover the many pathways to healing and self-discovery
+  items:
+    - icon: "✨"
+      title: Deep Healing
+      description: Address physical, emotional, and spiritual challenges at their root cause. Many clients experience relief from chronic conditions.
+
+    - icon: "🌟"
+      title: Life Purpose Clarity
+      description: Gain clear insights into your soul's purpose and path. Understand why you're here and what you came to accomplish.
+
+    - icon: "🔮"
+      title: Past Life Exploration
+      description: Journey into past lives that illuminate your present circumstances and reveal meaningful patterns.
+
+    - icon: "🪷"
+      title: Higher Self Connection
+      description: Establish a direct connection with your Higher Self for guidance, wisdom, and answers.
+
+    - icon: "🌸"
+      title: Personal Transformation
+      description: Experience profound shifts in perspective. Many clients report life-changing insights.
+
+    - icon: "🕊️"
+      title: Inner Peace
+      description: Release fears, anxieties, and limiting beliefs. Find deep peace and acceptance.
+
+# --- PROCESS SECTION (how sessions work) ---
+process:
+  title: Your Session Journey
+  subtitle: What to expect during your transformative experience
+  steps:
+    - title: Interview
+      description: We begin with a thorough conversation about your questions and intentions.
+
+    - title: Hypnosis
+      description: You'll be guided into a deep, relaxed state to access past lives.
+
+    - title: Dialogue
+      description: Your Higher Self answers questions and provides healing.
+
+    - title: Integration
+      description: Receive a recording to continue your healing journey.
+
+# --- CALL TO ACTION SECTION (bottom of page) ---
+cta:
+  title: Ready to Begin Your Healing?
+  description: Take the first step toward transformation and self-discovery. Book your session today.
+  button:
+    text: Schedule Your Session
+    link: contact.html

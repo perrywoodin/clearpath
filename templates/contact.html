@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Contact Clear Path QHHT to schedule your session or ask questions about Quantum Healing Hypnosis Technique.">
+    <title>Contact | Clear Path QHHT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Shapes -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <div class="logo">Clear Path</div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" onclick="toggleMenu()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>{{header.title}}</h1>
+        <p>{{header.subtitle}}</p>
+    </header>
+
+    <!-- Contact Form Section -->
+    <section class="section-light">
+        <div style="max-width: 800px; margin: 0 auto;">
+            <h2 class="section-title">{{form.section_title}}</h2>
+
+            <div style="text-align: center; margin-bottom: 3rem;">
+                <p style="font-size: 1.1rem;">{{form.intro}}</p>
+            </div>
+
+            <form action="https://formspree.io/f/{{form.formspree_id}}" method="POST" id="contactForm">
+                <input type="hidden" name="_next" value="https://clearpath.love/thank-you.html">
+
+                <div class="form-group">
+                    <label for="name">Full Name *</label>
+                    <input type="text" id="name" name="name" required placeholder="Your name">
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email Address *</label>
+                    <input type="email" id="email" name="email" required placeholder="your@email.com">
+                </div>
+
+                <div class="form-group">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" id="phone" name="phone" placeholder="(Optional) Best number to reach you">
+                </div>
+
+                <div class="form-group">
+                    <label for="preferred-contact">Preferred Contact Method *</label>
+                    <select id="preferred-contact" name="preferred-contact" required>
+                        <option value="">Choose one...</option>
+                        <option value="email">Email</option>
+                        <option value="phone">Phone</option>
+                        <option value="either">Either is fine</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="session-type">What are you interested in? *</label>
+                    <select id="session-type" name="session-type" required>
+                        <option value="">Choose one...</option>
+                        <option value="qhht-session">QHHT Session</option>
+                        <option value="questions">I have questions about QHHT</option>
+                        <option value="other">Other inquiry</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="availability">Your Availability</label>
+                    <textarea id="availability" name="availability"
+                              placeholder="Please share your general availability (days of the week, time of day, etc.)"
+                              rows="3"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="message">Message *</label>
+                    <textarea id="message" name="message" required
+                              placeholder="Tell me a bit about what brings you to QHHT and what you hope to explore or heal..."
+                              rows="6"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label style="display: flex; align-items: flex-start; gap: 0.75rem; cursor: pointer;">
+                        <input type="checkbox" name="consent" required style="width: auto; margin-top: 0.25rem;">
+                        <span>I understand that sessions typically last 4-6 hours and I'm prepared to commit this time for my healing journey. *</span>
+                    </label>
+                </div>
+
+                <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">
+                    Send Message
+                </button>
+
+                <div id="successMessage" class="form-success" style="display: none;">
+                    <strong>Thank you!</strong> Your message has been sent successfully. I'll respond within 24-48 hours.
+                </div>
+
+                <div id="errorMessage" class="form-error" style="display: none;">
+                    <strong>Oops!</strong> There was an error sending your message. Please try again or email me directly.
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- Contact Info Section -->
+    <section>
+        <div style="max-width: 900px; margin: 0 auto;">
+            <h2 class="section-title">{{contact_info.section_title}}</h2>
+
+            <div class="contact-cards">
+                <div class="contact-card">
+                    <div class="contact-card-icon">{{contact_info.location.icon}}</div>
+                    <h3>{{contact_info.location.title}}</h3>
+                    <p>{{contact_info.location.value}}</p>
+                    <p style="font-size: 0.9rem; margin-top: 0.5rem;">{{contact_info.location.note}}</p>
+                </div>
+            </div>
+
+            <div class="next-steps-card">
+                <h3>{{next_steps.title}}</h3>
+                {{#next_steps.paragraphs}}
+                <p>{{.}}</p>
+                {{/next_steps.paragraphs}}
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="section-light">
+        <div style="max-width: 800px; margin: 0 auto;">
+            <h2 class="section-title">{{faq.section_title}}</h2>
+
+            {{#faq.items}}
+            <div class="faq-card">
+                <h3>{{question}}</h3>
+                <p>{{answer}}</p>
+            </div>
+            {{/faq.items}}
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Clear Path QHHT. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="about.html">About</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

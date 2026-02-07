@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn about our QHHT practitioner and the Quantum Healing Hypnosis Technique developed by Dolores Cannon.">
+    <title>About | Clear Path QHHT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Shapes -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <div class="logo">Clear Path</div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" onclick="toggleMenu()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html" class="active">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>{{header.title}}</h1>
+        <p>{{header.subtitle}}</p>
+    </header>
+
+    <!-- About Practitioner Section -->
+    <section class="section-light">
+        <div style="max-width: 900px; margin: 0 auto;">
+            <h2 class="section-title">{{practitioner.section_title}}</h2>
+
+            <!-- Practitioner Photo -->
+            <div class="practitioner-photo">
+                {{#practitioner.has_photo}}
+                <img src="practitioner-photo.jpg" alt="{{practitioner.name}}">
+                {{/practitioner.has_photo}}
+                {{^practitioner.has_photo}}
+                &#10024;
+                {{/practitioner.has_photo}}
+            </div>
+
+            <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+                <h3 style="margin-bottom: 0.5rem;">{{practitioner.name}}</h3>
+                <p style="font-style: italic; color: var(--terracotta); margin-bottom: 2rem;">
+                    {{practitioner.credentials}}
+                </p>
+            </div>
+
+            <div style="max-width: 700px; margin: 0 auto;">
+                {{#practitioner.bio}}
+                <p>{{.}}</p>
+                {{/practitioner.bio}}
+
+                <div class="card approach-card">
+                    <h3>{{practitioner.approach.title}}</h3>
+                    <p>{{practitioner.approach.description}}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About QHHT Section -->
+    <section id="qhht">
+        <div style="max-width: 900px; margin: 0 auto;">
+            <h2 class="section-title">{{qhht.section_title}}</h2>
+
+            <div class="qhht-info-card">
+                <h3>{{qhht.origins.title}}</h3>
+                {{#qhht.origins.paragraphs}}
+                <p>{{.}}</p>
+                {{/qhht.origins.paragraphs}}
+            </div>
+
+            <h3 style="margin-top: 2rem; margin-bottom: 1.5rem; text-align: center;">{{qhht.how_it_works.title}}</h3>
+
+            <div class="card-grid">
+                {{#qhht.how_it_works.cards}}
+                <div class="card">
+                    <h3>{{title}}</h3>
+                    <p>{{description}}</p>
+                </div>
+                {{/qhht.how_it_works.cards}}
+            </div>
+
+            <div class="qhht-info-card" style="margin-top: 2rem;">
+                <h3>{{qhht.unique.title}}</h3>
+                <p>{{qhht.unique.intro}}</p>
+                <ul class="qhht-unique-list">
+                    {{#qhht.unique.items}}
+                    <li>{{.}}</li>
+                    {{/qhht.unique.items}}
+                </ul>
+            </div>
+
+            <div class="legacy-card">
+                <h3>{{qhht.legacy.title}}</h3>
+                <p>{{qhht.legacy.description}}</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <div class="cta-section">
+        <h2>{{cta.title}}</h2>
+        <p>{{cta.description}}</p>
+        <a href="{{cta.button.link}}" class="btn btn-primary">{{cta.button.text}}</a>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Clear Path QHHT. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="about.html">About</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

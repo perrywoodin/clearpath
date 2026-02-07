@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{description}}">
+    <title>{{title}} | Clear Path QHHT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <!-- Background Shapes -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <div class="logo">Clear Path</div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" onclick="toggleMenu()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../about.html">About</a></li>
+                <li><a href="../blog.html" class="active">Blog</a></li>
+                <li><a href="../contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Blog Article -->
+    <article class="blog-article">
+        <header class="blog-article-header">
+            <div class="blog-meta">{{date_formatted}}</div>
+            <h1>{{title}}</h1>
+        </header>
+
+        <div class="blog-article-content">
+            {{content}}
+        </div>
+
+        <!-- Call to Action -->
+        <div class="blog-cta">
+            <h3>Ready for Your QHHT Journey?</h3>
+            <p>If you'd like to experience the profound healing and insights that QHHT offers, I'd love to guide you on that journey.</p>
+            <a href="../contact.html" class="btn btn-primary">Book Your Session</a>
+        </div>
+
+        <!-- Back to Blog -->
+        <div class="blog-back">
+            <a href="../blog.html">&larr; Back to all posts</a>
+        </div>
+    </article>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Clear Path QHHT. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="../about.html">About</a>
+            <a href="../blog.html">Blog</a>
+            <a href="../contact.html">Contact</a>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
