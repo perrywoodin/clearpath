@@ -9,17 +9,17 @@ page_slug: qhht-albany-ny
 # SEO Meta Data
 seo:
   title: "QHHT Albany NY | Quantum Healing Hypnosis in Albany | Clear Path"
-  description: "QHHT sessions in Albany, NY with certified practitioner Laura Welles. Quantum Healing Hypnosis Technique for deep healing and past life regression. Located at 560 Delaware Ave, serving Albany and the Capital Region."
+  description: "QHHT sessions in Albany, NY with certified practitioner Laura Welles. Quantum Healing Hypnosis Technique for deep healing and Higher Self connection. Located at 560 Delaware Ave, serving Albany and the Capital Region."
 
 # Schema Markup Data
 schema:
-  business_description: "Professional QHHT (Quantum Healing Hypnosis Technique) practitioner in Albany, NY offering quantum healing, past life regression, and deep transformational healing sessions."
+  business_description: "Professional QHHT (Quantum Healing Hypnosis Technique) practitioner in Albany, NY offering quantum healing, Higher Self connection, and deep transformational healing sessions."
   service_name: "QHHT (Quantum Healing Hypnosis Technique)"
-  service_description: "A powerful hypnosis modality developed by Dolores Cannon that guides you into the deepest state of relaxation to access your Higher Self, explore past lives, and facilitate profound healing."
+  service_description: "A powerful hypnosis modality developed by Dolores Cannon that guides you into the deepest state of relaxation to access your Higher Self, explore meaningful inner experiences, and facilitate profound healing."
   faq_schema:
     items:
       - question: "What is QHHT?"
-        answer: "QHHT (Quantum Healing Hypnosis Technique) is a powerful hypnosis modality developed by Dolores Cannon. It guides you into the Somnambulistic state to access your Higher Self, explore past lives, and facilitate profound physical and emotional healing."
+        answer: "QHHT (Quantum Healing Hypnosis Technique) is a powerful hypnosis modality developed by Dolores Cannon. It guides you into the Somnambulistic state to access your Higher Self, explore meaningful inner experiences (sometimes past-life imagery), and facilitate profound physical and emotional healing."
         last: false
       - question: "Where is Clear Path QHHT located in Albany?"
         answer: "Clear Path QHHT is located at 560 Delaware Ave, Albany, NY 12209, in the heart of Albany's Center Square neighborhood. Street parking and nearby lots available."
@@ -34,14 +34,14 @@ schema:
 # Hero Section
 hero:
   title: "QHHT Albany NY"
-  subtitle: "Experience quantum healing and past life regression with certified practitioner Laura Welles in Albany, New York"
+  subtitle: "Experience quantum healing and Higher Self connection with certified practitioner Laura Welles in Albany, New York"
 
 # Introduction
 intro:
   title: "What is QHHT in Albany, NY?"
   paragraphs:
     - "QHHT (Quantum Healing Hypnosis Technique) is a transformative healing modality developed by the late Dolores Cannon over her 45+ year career. Through guided hypnosis, QHHT allows you to access the Somnambulistic state—the deepest level of relaxation where profound healing and transformation occur."
-    - "As a certified QHHT practitioner in Albany, NY, I guide you through a safe, structured journey to connect with your Higher Self, explore past lives, and receive answers to your most important questions. Many clients experience spontaneous physical healing, emotional release, and profound insights about their life's purpose."
+    - "As a certified QHHT practitioner in Albany, NY, I guide you through a safe, structured journey to connect with your Higher Self, explore meaningful inner experiences (sometimes past-life imagery), and receive answers to your most important questions. Many clients experience spontaneous physical healing, emotional release, and profound insights about their life's purpose."
     - "Located at 560 Delaware Ave in Albany's Center Square neighborhood, Clear Path QHHT offers a comfortable, private healing space where you can explore the depths of your consciousness and access your inner wisdom."
 
 # Why Choose
@@ -74,7 +74,7 @@ how_it_works:
     - title: "Interview & Intention Setting"
       description: "We begin with a 1-2 hour conversation where I get to know you, understand your life story, and clarify the questions you want answered. This builds trust and rapport essential for deep hypnotic work."
     - title: "Guided Hypnosis Journey"
-      description: "Using gentle visualization and relaxation techniques, I guide you into the Somnambulistic state where you can access past lives, other dimensions, or whatever your Higher Self wants you to experience."
+      description: "Using gentle visualization and relaxation techniques, I guide you into the Somnambulistic state where you can access meaningful inner experiences—memories, symbols, or past-life imagery—or whatever your Higher Self wants you to experience."
     - title: "Connection with Higher Self"
       description: "Once you're in a deep state, I facilitate direct communication with your Higher Self (also called the Subconscious or SC). This wise aspect of you provides answers, healing, and profound insights."
     - title: "Body Scan & Healing"
@@ -119,9 +119,9 @@ faq:
   title: "Common Questions About QHHT in Albany"
   items:
     - question: "How is QHHT different from traditional hypnotherapy?"
-      answer: "QHHT guides you into the Somnambulistic state—the deepest level of hypnosis where you access your Higher Self and past lives. Traditional hypnotherapy typically works at lighter levels for behavior change. QHHT is designed for spiritual exploration and profound healing, not just symptom relief."
+      answer: "QHHT guides you into the Somnambulistic state—the deepest level of hypnosis where you access your Higher Self and deeper inner experiences (which may include past-life imagery). Traditional hypnotherapy typically works at lighter levels for behavior change. QHHT is designed for spiritual exploration and profound healing, not just symptom relief."
     - question: "Do I need to believe in past lives for QHHT to work?"
-      answer: "No. Many clients start as skeptics. Whether you interpret the experiences as literal past lives, metaphor, or imagination, the healing and insights that emerge are real and transformative. Your Higher Self will show you exactly what you need to see."
+      answer: "No. Many clients start as skeptics, and not every session includes past-life imagery. Whether you interpret the experiences as literal past lives, metaphor, or imagination, the healing and insights that emerge can be real and transformative. Your Higher Self will show you exactly what you need to see."
     - question: "What can QHHT help with?"
       answer: "QHHT can address physical ailments, chronic pain, anxiety, depression, relationship patterns, life purpose questions, and spiritual seeking. Clients often experience spontaneous healing of conditions that haven't responded to conventional treatment."
     - question: "Is QHHT safe?"

@@ -6,7 +6,7 @@
 # SEO Meta Data
 seo:
   title: "QHHT Pricing Albany NY | $350 Sessions | Clear Path"
-  description: "QHHT sessions $350 in Albany, NY. 4-6 hour past life regression with Higher Self dialogue. Free 20-min discovery call. Payment plans available. Book your transformation today."
+  description: "QHHT sessions $350 in Albany, NY. 4-6 hour session with Higher Self dialogue, deep relaxation, and healing. Free 20-min discovery call. Payment plans available. Book your transformation today."
 
 # --- PAGE HEADER ---
 header:
@@ -25,7 +25,7 @@ services:
     description: "A comprehensive quantum healing experience that creates profound transformation and lasting insight."
     includes:
       - "Pre-session interview and question preparation"
-      - "Guided hypnosis and past life exploration"
+      - "Guided hypnosis and inner exploration (past life imagery is possible but not required)"
       - "Higher Self dialogue and healing"
       - "Complete session recording (audio file)"
       - "Follow-up email support for 7 days"
@@ -63,9 +63,9 @@ session_details:
       time: "60-90 minutes"
       description: "We'll have an unhurried conversation about your life, your questions, and what you hope to explore and heal."
 
-    - title: "Hypnosis & Past Life Exploration"
+    - title: "Hypnosis & Inner Exploration"
       time: "2-3 hours"
-      description: "You'll be guided into the Somnambulistic state to explore past lives relevant to your current journey."
+      description: "You'll be guided into the Somnambulistic state to explore whatever your Higher Self brings forward—memories, symbols, insights, or past-life imagery."
 
     - title: "Higher Self Dialogue"
       time: "30-60 minutes"

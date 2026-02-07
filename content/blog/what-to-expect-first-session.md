@@ -22,11 +22,11 @@ Many people worry they won't be "hypnotizable," but the truth is, everyone exper
 
 > "You are always in control during QHHT. The experience is gentle, natural, and deeply relaxing."
 
-Once you're in the deep state, you may experience one or more past lives. These aren't random—your Higher Self shows you exactly what's relevant to your current life questions and challenges. Some people see vivid scenes like watching a movie, while others receive information more as feelings or knowings. Every experience is unique and valid.
+Once you're in the deep state, you may experience a range of inner material—memories, symbolic scenes, feelings, or simple knowing. Some people do encounter past-life imagery, while others do not. Your Higher Self shows you exactly what's relevant to your current life questions and challenges, and every experience is unique and valid.
 
 ## Connecting with Your Higher Self
 
-After exploring past life experiences, I'll call forth your Higher Self (also called the Subconscious or SC). This is often the most powerful part of the session. Your Higher Self has infinite knowledge and understanding about you, your life, and your purpose.
+After the exploration portion, I'll call forth your Higher Self (also called the Subconscious or SC). This is often the most powerful part of the session. Your Higher Self has infinite knowledge and understanding about you, your life, and your purpose.
 
 I'll ask your prepared questions, and your Higher Self will provide answers. The responses are often profound, sometimes surprising, and occasionally humorous. Your Higher Self loves you unconditionally and wants you to understand and thrive.
 

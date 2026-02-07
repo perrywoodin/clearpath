@@ -6,7 +6,7 @@
 # SEO Meta Data
 seo:
   title: "QHHT Sessions Albany NY | Quantum Healing | Clear Path"
-  description: "Experience profound healing with QHHT in Albany, NY. Certified practitioner Laura Welles offers past life regression, Higher Self connection & transformation. Book your session today."
+  description: "Experience profound healing with QHHT in Albany, NY. Certified practitioner Laura Welles offers Higher Self connection, deep relaxation, and transformation. Book your session today."
 
 # --- HERO SECTION (top of page) ---
 hero:
@@ -24,7 +24,7 @@ hero:
 # --- INTRO SECTION (below hero) ---
 intro:
   icon: "🌱"
-  text: Located in Albany, New York, Clear Path offers professional Quantum Healing Hypnosis Technique sessions in a welcoming, dedicated healing space. QHHT is a powerful method developed by Dolores Cannon that allows you to access the deepest levels of consciousness. Through this gentle process, you can explore past lives, connect with your Higher Self, and receive profound healing and guidance for your life's journey.
+  text: Located in Albany, New York, Clear Path offers professional Quantum Healing Hypnosis Technique sessions in a welcoming, dedicated healing space. QHHT is a powerful method developed by Dolores Cannon that allows you to access the deepest levels of consciousness. Through this gentle process, you may explore meaningful inner experiences (including, for some, past life imagery), connect with your Higher Self, and receive profound healing and guidance for your life's journey.
 
 # --- BENEFITS SECTION ---
 benefits:
@@ -40,8 +40,8 @@ benefits:
       description: Gain clear insights into your soul's purpose and path. Understand why you're here and what you came to accomplish.
 
     - icon: "🔮"
-      title: Past Life Exploration
-      description: Journey into past lives that illuminate your present circumstances and reveal meaningful patterns.
+      title: Inner Exploration
+      description: Explore meaningful inner experiences—memories, symbols, or past-life imagery—guided by your Higher Self. Every journey is unique.
 
     - icon: "🪷"
       title: Higher Self Connection
@@ -64,7 +64,7 @@ process:
       description: We begin with a thorough conversation about your questions and intentions.
 
     - title: Hypnosis
-      description: You'll be guided into a deep, relaxed state to access past lives.
+      description: You'll be guided into a deep, relaxed state to access whatever is most relevant for you—memories, symbols, insights, or past-life imagery.
 
     - title: Dialogue
       description: Your Higher Self answers questions and provides healing.

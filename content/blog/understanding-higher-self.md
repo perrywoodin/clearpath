@@ -17,7 +17,7 @@ Think of your conscious mind as the tip of an iceberg. It's what you're aware of
 During a QHHT session, when we establish communication with your Higher Self, something remarkable happens. This part of you has access to:
 
 - Every experience from your current life
-- Memories and lessons from past lives
+- Memories and lessons from your life journey (sometimes experienced as past-life imagery)
 - The reasons behind your life circumstances
 - The root causes of physical and emotional challenges
 - Your life purpose and soul contracts
@@ -31,7 +31,7 @@ One of the most extraordinary aspects of connecting with the Higher Self is its 
 
 When healing occurs during a QHHT session, the Higher Self may:
 
-- Identify the root cause of a condition (often emotional or from a past life)
+- Identify the root cause of a condition (often emotional or from earlier life experiences; sometimes experienced as past-life imagery)
 - Clear blocked energy or trauma
 - Perform what Dolores Cannon called "instantaneous healing"
 - Provide understanding that itself brings relief

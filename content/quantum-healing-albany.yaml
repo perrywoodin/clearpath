@@ -22,10 +22,10 @@ schema:
         answer: "Quantum healing refers to healing that occurs at the deepest levels of consciousness. Through QHHT, you access your Higher Self—the aspect of you that exists beyond time and space—to initiate healing on physical, emotional, and energetic levels simultaneously."
         last: false
       - question: "How does quantum healing work?"
-        answer: "Quantum healing works by addressing the energetic and consciousness-based root causes of physical and emotional issues. When your Higher Self reveals the source of a condition (often in past lives or early childhood) and releases the stuck energy, healing occurs spontaneously."
+        answer: "Quantum healing works by addressing the energetic and consciousness-based root causes of physical and emotional issues. When your Higher Self reveals the source of a condition (often in early life experiences or deeper layers of consciousness) and releases the stuck energy, healing occurs spontaneously."
         last: false
       - question: "What can I expect from my first quantum healing session?"
-        answer: "Expect a 4-6 hour journey that includes an interview, guided hypnosis into deep relaxation, exploration of past lives or other relevant experiences, direct communication with your Higher Self, body scan and healing, and integration time. You'll receive a recording to revisit."
+        answer: "Expect a 4-6 hour journey that includes an interview, guided hypnosis into deep relaxation, exploration of relevant inner experiences (which may include past-life imagery), direct communication with your Higher Self, body scan and healing, and integration time. You'll receive a recording to revisit."
         last: true
 
 # Hero Section
@@ -39,7 +39,7 @@ intro:
   paragraphs:
     - "If you're new to quantum healing, you might be wondering: What exactly will happen in a session? How does it work? What can it help with? Is it safe? These are all great questions, and this page is designed to give you a clear, honest understanding of what quantum healing through QHHT actually looks like."
     - "Quantum healing refers to healing that occurs at the deepest levels of consciousness—beyond the physical body, beyond the conscious mind, at the level of your Higher Self. Through QHHT (Quantum Healing Hypnosis Technique), I guide you into a deep state of relaxation where your Higher Self becomes accessible."
-    - "What makes this 'quantum'? Your Higher Self exists outside of linear time, with access to all your past lives, future possibilities, and the energetic patterns that influence your current physical and emotional reality. When healing occurs at this level, the effects ripple out into all dimensions of your being—physical, emotional, mental, and spiritual."
+    - "What makes this 'quantum'? Your Higher Self exists outside of linear time, with access to your life history, future possibilities, and the energetic patterns that influence your current physical and emotional reality. When healing occurs at this level, the effects ripple out into all dimensions of your being—physical, emotional, mental, and spiritual."
 
 # Why Choose
 why_choose:
@@ -50,7 +50,7 @@ why_choose:
     items:
       - icon: "🔬"
         title: "Beyond Physical Symptoms"
-        description: "Instead of treating symptoms, quantum healing addresses the consciousness-based root causes—often found in past lives, childhood, or energetic imprints—allowing true resolution rather than management."
+        description: "Instead of treating symptoms, quantum healing addresses the consciousness-based root causes—often found in early life experiences, energetic imprints, or deeper layers of consciousness—allowing true resolution rather than management."
       - icon: "🌌"
         title: "Your Higher Self Leads"
         description: "This isn't a practitioner 'doing healing' to you. Your own Higher Self—the wisest part of you—guides the session, performs the healing, and provides the answers. I simply facilitate the connection."
@@ -72,7 +72,7 @@ how_it_works:
     - title: "Interview (1-2 hours)"
       description: "We begin by talking. I want to hear your life story, understand your health challenges, and learn what questions you're bringing. This builds trust and helps your Higher Self know what to show you."
     - title: "Induction & Journey (2-3 hours)"
-      description: "Using gentle guided visualization, I help you relax into the Somnambulistic state—the deepest level of hypnosis. Your Higher Self then guides you through relevant experiences (often past lives) chosen specifically for your healing."
+      description: "Using gentle guided visualization, I help you relax into the Somnambulistic state—the deepest level of hypnosis. Your Higher Self then guides you through relevant experiences (which may include past-life imagery) chosen specifically for your healing."
     - title: "Higher Self Dialogue (1 hour)"
       description: "Once you're in deep trance, I call forth your Higher Self and ask your prepared questions. Your Higher Self explains what you've seen, why you're experiencing certain challenges, and what you need to know."
     - title: "Body Scan & Quantum Healing"
@@ -84,7 +84,7 @@ how_it_works:
 about_laura:
   title: "Your Quantum Healing Guide"
   paragraphs:
-    - "I'm Laura Welles, and I came to quantum healing through my own desperate search for answers. In 2020, I was struggling with PTSD and a complex tick-borne illness that conventional medicine couldn't solve. My first QHHT session revealed the energetic and past-life roots of both conditions and initiated healing that changed everything."
+    - "I'm Laura Welles, and I came to quantum healing through my own desperate search for answers. In 2020, I was struggling with PTSD and a complex tick-borne illness that conventional medicine couldn't solve. My first QHHT session revealed the energetic roots of both conditions and initiated healing that changed everything."
     - "That experience was so profound that I trained to become a QHHT practitioner myself. I wanted to offer this gift to others who, like me, had tried everything and were ready for something deeper."
     - "As a biologist with a background in neuroscience, I bridge the worlds of science and spirituality. I understand skepticism, and I also know from direct experience that consciousness-based healing is real. Whether you're a believer or a skeptic, I'll meet you where you are and guide you safely through this transformative process."
 
