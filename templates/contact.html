@@ -141,9 +141,25 @@
                 <div class="contact-card">
                     <div class="contact-card-icon">{{contact_info.location.icon}}</div>
                     <h3>{{contact_info.location.title}}</h3>
-                    <p>{{contact_info.location.value}}</p>
+                    <p>
+                        <a href="{{contact_info.location.maps_link}}" target="_blank" rel="noopener noreferrer" class="location-link">
+                            {{contact_info.location.value}}
+                        </a>
+                    </p>
                     <p style="font-size: 0.9rem; margin-top: 0.5rem;">{{contact_info.location.note}}</p>
                 </div>
+            </div>
+
+            <!-- Embedded Map -->
+            <div class="location-map-container" style="margin-top: 2rem;">
+                <iframe
+                    src="{{contact_info.location.embed_url}}"
+                    class="location-map"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                    title="Clear Path QHHT Location Map">
+                </iframe>
             </div>
 
             <div class="next-steps-card">

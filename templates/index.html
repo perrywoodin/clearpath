@@ -134,9 +134,31 @@
         <div style="max-width: 900px; margin: 0 auto; text-align: center;">
             <h2 class="section-title">{{location.title}}</h2>
             <p style="font-size: 1.05rem; margin-bottom: 1rem;">{{location.subtitle}}</p>
+
+            <!-- Clickable Address -->
+            <div class="location-address">
+                <a href="{{location.maps_link}}" target="_blank" rel="noopener noreferrer">
+                    <span class="location-icon">📍</span>
+                    {{location.address}}
+                </a>
+            </div>
+
             <p style="max-width: 700px; margin: 0 auto 2rem; line-height: 1.7;">
                 {{location.description}}
             </p>
+
+            <!-- Embedded Map -->
+            <div class="location-map-container">
+                <iframe
+                    src="{{location.embed_url}}"
+                    class="location-map"
+                    allowfullscreen=""
+                    loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"
+                    title="Clear Path QHHT Location Map">
+                </iframe>
+            </div>
+
             <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-top: 2rem;">
                 {{#location.serving_areas}}
                 <div style="background: var(--sand); padding: 0.75rem 1.5rem; border-radius: 20px; font-weight: 500;">
