@@ -208,6 +208,19 @@ function buildContactPage() {
 }
 
 /**
+ * Build the services page
+ */
+function buildServicesPage() {
+    console.log('Building services.html...');
+
+    const data = readYaml('services.yaml');
+    const template = readTemplate('services.html');
+
+    const html = renderTemplate(template, data);
+    fs.writeFileSync(path.join(OUTPUT_DIR, 'services.html'), html);
+}
+
+/**
  * Build the thank you page
  */
 function buildThankYouPage() {
@@ -294,6 +307,7 @@ function build() {
     try {
         buildHomePage();
         buildAboutPage();
+        buildServicesPage();
         buildContactPage();
         buildThankYouPage();
         buildBlogPages();

@@ -1,0 +1,111 @@
+# ============================================
+# SERVICES & PRICING PAGE CONTENT
+# Edit the text below, then run: npm run build
+# ============================================
+
+# --- PAGE HEADER ---
+header:
+  title: Services & Pricing
+  subtitle: Investment in Your Transformation
+
+intro:
+  text: "QHHT sessions are profound, personalized experiences that typically span 4-6 hours. This is sacred work that requires preparation, presence, and dedicated time—both for you and for me. Each session is carefully tailored to your unique healing journey."
+
+# --- MAIN SERVICES ---
+services:
+  - name: QHHT Session
+    price: "$350"
+    duration: "4-6 hours"
+    featured: false
+    description: "A comprehensive quantum healing experience that creates profound transformation and lasting insight."
+    includes:
+      - "Pre-session interview and question preparation"
+      - "Guided hypnosis and past life exploration"
+      - "Higher Self dialogue and healing"
+      - "Complete session recording (audio file)"
+      - "Follow-up email support for 7 days"
+    cta_text: "Book Your Session"
+    cta_link: "contact.html"
+
+  - name: Follow-Up Integration Session
+    price: "$100"
+    duration: "60 minutes"
+    featured: false
+    description: "For clients who want to deepen their healing journey and integrate insights from their initial QHHT session."
+    includes:
+      - "Discussion of insights from original session"
+      - "Guidance on integrating healing and messages"
+      - "Additional questions for Higher Self"
+      - "Session notes summary"
+    cta_text: "Schedule Follow-Up"
+    cta_link: "contact.html"
+
+# --- FREE DISCOVERY CALL ---
+discovery_call:
+  title: "Not sure if QHHT is right for you?"
+  description: "Book a free 20-minute discovery call. We'll discuss your intentions, I'll answer your questions about the QHHT process, and we'll explore whether this work is aligned with your needs right now."
+  duration: "20 minutes"
+  price: "Free"
+  cta_text: "Book Free Discovery Call"
+  cta_link: "contact.html"
+
+# --- WHAT'S INCLUDED CALLOUT ---
+session_details:
+  title: "What to Expect in Your QHHT Session"
+  intro: "Every QHHT session is unique, but here's the general flow:"
+  steps:
+    - title: "Interview & Preparation"
+      time: "60-90 minutes"
+      description: "We'll have an unhurried conversation about your life, your questions, and what you hope to explore and heal."
+
+    - title: "Hypnosis & Past Life Exploration"
+      time: "2-3 hours"
+      description: "You'll be guided into the Somnambulistic state to explore past lives relevant to your current journey."
+
+    - title: "Higher Self Dialogue"
+      time: "30-60 minutes"
+      description: "Your Higher Self will answer your prepared questions and provide healing where appropriate."
+
+    - title: "Closing & Integration"
+      time: "15-30 minutes"
+      description: "We'll discuss your experience and you'll receive guidance for integration."
+
+# --- FAQ SECTION ---
+faq:
+  title: "Frequently Asked Questions"
+  questions:
+    - q: "How long is a QHHT session?"
+      a: "Most sessions take 4-6 hours. This includes the initial interview (60-90 min), the hypnosis portion (2-3 hours), and closing discussion (15-30 min). I never rush—each session unfolds at its own perfect pace."
+
+    - q: "What's included in the session price?"
+      a: "Your session includes the full QHHT experience, a complete audio recording of your session, and 7 days of follow-up email support. You'll be able to listen to your session recording as many times as you wish for continued integration."
+
+    - q: "Do you offer payment plans?"
+      a: "Yes, I understand that investing in your healing is a significant decision. Payment plans can be arranged—please mention this when you contact me and we'll find an option that works for you."
+
+    - q: "What's your cancellation policy?"
+      a: "Life happens, and I understand. Full refund if you need to cancel 7+ days before your session. 50% refund for 3-6 days notice. Unfortunately, I cannot offer refunds for cancellations within 48 hours, as I've reserved that entire day exclusively for you."
+
+    - q: "How do I prepare for my session?"
+      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of questions for your Higher Self, avoid caffeine the day of your session, wear comfortable clothing, and come with an open heart and curious mind."
+
+    - q: "What if I've never been hypnotized before?"
+      a: "Most of my clients haven't! QHHT hypnosis is gentle and natural—it's the same state you experience twice daily, just before falling asleep and just before waking up. Everyone can reach this state, and I'll guide you every step of the way."
+
+# --- TESTIMONIAL (optional - leave blank if not ready) ---
+testimonial:
+  enabled: true
+  quote: "My QHHT session with Laura was life-changing. I received answers to questions I'd been asking for years, and experienced healing I didn't even know I needed. The recording is a treasure I return to often."
+  author: "Sarah M."
+  location: "Portland, OR"
+
+# --- CALL TO ACTION ---
+cta:
+  title: "Ready to Begin Your Journey?"
+  description: "Whether you're seeking healing, clarity, or deeper connection with your Higher Self, QHHT offers a profound path to transformation."
+  primary_button:
+    text: "Book Your Session"
+    link: "contact.html"
+  secondary_button:
+    text: "Schedule Free Discovery Call"
+    link: "contact.html"

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="QHHT session pricing and services. Professional quantum healing hypnosis sessions with detailed information on what to expect.">
+    <title>Services & Pricing | Clear Path QHHT</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Shapes -->
+    <div class="bg-shape bg-shape-1"></div>
+    <div class="bg-shape bg-shape-2"></div>
+
+    <!-- Navigation -->
+    <nav>
+        <div class="nav-container">
+            <div class="logo">Clear Path</div>
+            <button class="mobile-menu-toggle" aria-label="Toggle menu" onclick="toggleMenu()">&#9776;</button>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html" class="active">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <h1>{{header.title}}</h1>
+        <p>{{header.subtitle}}</p>
+    </header>
+
+    <!-- Intro Text -->
+    <section style="padding-top: 0;">
+        <div style="max-width: 800px; margin: 0 auto; text-align: center;">
+            <p style="font-size: 1.125rem; line-height: 1.7; color: var(--charcoal);">
+                {{intro.text}}
+            </p>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section class="section-light">
+        <div class="services-grid">
+            {{#services}}
+            <div class="service-card{{#featured}} featured{{/featured}}">
+                {{#featured}}
+                <div class="featured-badge">Most Popular</div>
+                {{/featured}}
+                <h2>{{name}}</h2>
+                <div class="service-price">
+                    <span class="price">{{price}}</span>
+                    <span class="duration">{{duration}}</span>
+                </div>
+                <p class="service-description">{{description}}</p>
+                <div class="service-includes">
+                    <h4>What's Included:</h4>
+                    <ul>
+                        {{#includes}}
+                        <li>{{.}}</li>
+                        {{/includes}}
+                    </ul>
+                </div>
+                <a href="{{cta_link}}" class="btn{{#featured}} btn-primary{{/featured}}{{^featured}} btn-secondary{{/featured}}">{{cta_text}}</a>
+            </div>
+            {{/services}}
+        </div>
+    </section>
+
+    <!-- Discovery Call Callout -->
+    <div class="discovery-callout">
+        <div class="discovery-content">
+            <h3>{{discovery_call.title}}</h3>
+            <p>{{discovery_call.description}}</p>
+            <div class="discovery-details">
+                <span class="discovery-duration">{{discovery_call.duration}}</span>
+                <span class="discovery-price">{{discovery_call.price}}</span>
+            </div>
+            <a href="{{discovery_call.cta_link}}" class="btn btn-primary">{{discovery_call.cta_text}}</a>
+        </div>
+    </div>
+
+    <!-- Session Details -->
+    <section>
+        <div style="max-width: 1000px; margin: 0 auto;">
+            <h2 class="section-title">{{session_details.title}}</h2>
+            <p style="text-align: center; max-width: 700px; margin: 0 auto 2rem;">
+                {{session_details.intro}}
+            </p>
+            <div class="session-timeline">
+                {{#session_details.steps}}
+                <div class="timeline-step">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-time">{{time}}</div>
+                        <h3>{{title}}</h3>
+                        <p>{{description}}</p>
+                    </div>
+                </div>
+                {{/session_details.steps}}
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="section-light">
+        <div style="max-width: 900px; margin: 0 auto;">
+            <h2 class="section-title">{{faq.title}}</h2>
+            <div class="faq-list">
+                {{#faq.questions}}
+                <div class="faq-item">
+                    <h3>{{q}}</h3>
+                    <p>{{a}}</p>
+                </div>
+                {{/faq.questions}}
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonial (if enabled) -->
+    {{#testimonial.enabled}}
+    <div class="testimonial-section">
+        <blockquote class="testimonial">
+            <p>"{{testimonial.quote}}"</p>
+            <footer>— {{testimonial.author}}, {{testimonial.location}}</footer>
+        </blockquote>
+    </div>
+    {{/testimonial.enabled}}
+
+    <!-- CTA Section -->
+    <div class="cta-section">
+        <h2>{{cta.title}}</h2>
+        <p>{{cta.description}}</p>
+        <div class="hero-buttons">
+            <a href="{{cta.primary_button.link}}" class="btn btn-primary">{{cta.primary_button.text}}</a>
+            <a href="{{cta.secondary_button.link}}" class="btn btn-secondary">{{cta.secondary_button.text}}</a>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2026 Clear Path QHHT. All rights reserved.</p>
+        <div class="footer-links">
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMenu() {
+            const navLinks = document.getElementById('navLinks');
+            navLinks.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
