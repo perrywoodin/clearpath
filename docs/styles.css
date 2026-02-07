@@ -281,6 +281,7 @@ nav {
 .hero h1 {
     line-height: 1.2;
     margin-bottom: 1.5rem;
+    text-wrap: balance;
 }
 
 .hero h1 em {
