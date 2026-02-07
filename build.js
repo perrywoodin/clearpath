@@ -123,7 +123,7 @@ function renderTemplate(template, data) {
                 return renderTemplate(inner, itemData);
             }).join('');
         }
-        return '';
+        return match; // Return original match if not an array, for conditional processing
     });
 
     // Handle negative conditionals: {{^condition}}...{{/condition}}

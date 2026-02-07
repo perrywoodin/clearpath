@@ -42,12 +42,7 @@
 
             <!-- Practitioner Photo -->
             <div class="practitioner-photo">
-                {{#practitioner.has_photo}}
-                <img src="practitioner-photo.jpg" alt="{{practitioner.name}}">
-                {{/practitioner.has_photo}}
-                {{^practitioner.has_photo}}
-                &#10024;
-                {{/practitioner.has_photo}}
+{{#practitioner.has_photo}}<img src="practitioner-photo.jpg" alt="{{practitioner.name}}">{{/practitioner.has_photo}}{{^practitioner.has_photo}}&#10024;{{/practitioner.has_photo}}
             </div>
 
             <div style="max-width: 800px; margin: 0 auto; text-align: center;">
