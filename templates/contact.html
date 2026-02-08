@@ -162,6 +162,18 @@
                 </iframe>
             </div>
 
+            {{#privacy}}
+            <div style="background: linear-gradient(135deg, #f0f4f8 0%, #e8f0f7 100%); border-left: 4px solid var(--accent); padding: 2rem; margin: 2rem 0; border-radius: 8px;">
+                <div style="display: flex; align-items: start; gap: 1rem;">
+                    <div style="font-size: 2.5rem; line-height: 1;">{{privacy.icon}}</div>
+                    <div>
+                        <h3 style="margin: 0 0 0.75rem 0; font-size: 1.3rem; color: var(--dark);">{{privacy.title}}</h3>
+                        <p style="margin: 0; color: var(--text-muted); line-height: 1.6;">{{privacy.description}}</p>
+                    </div>
+                </div>
+            </div>
+            {{/privacy}}
+
             <div class="next-steps-card">
                 <h3>{{next_steps.title}}</h3>
                 {{#next_steps.paragraphs}}

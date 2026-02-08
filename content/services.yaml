@@ -14,7 +14,7 @@ header:
   subtitle: Investment in Your Transformation
 
 intro:
-  text: "QHHT sessions are profound, personalized experiences that typically span 4-6 hours. This is sacred work that requires preparation, presence, and dedicated time—both for you and for me. Each session is carefully tailored to your unique healing journey."
+  text: "QHHT sessions are profound, personalized experiences that typically span 4-6 hours. This work requires preparation, presence, and dedicated time—both for you and for me. Each session is carefully tailored to your unique healing journey."
 
 # --- MAIN SERVICES ---
 services:
@@ -22,13 +22,13 @@ services:
     price: "$350"
     duration: "4-6 hours"
     featured: false
-    description: "A comprehensive quantum healing experience that creates profound transformation and lasting insight."
+    description: "A comprehensive quantum healing experience that provides deep answers, healing, and clarity you can use to transform your life."
     includes:
       - "Pre-session interview and question preparation"
-      - "Guided hypnosis and inner exploration (past life imagery is possible but not required)"
+      - "Guided hypnosis and inner exploration—your Higher Self guides what you experience"
       - "Higher Self dialogue and healing"
       - "Complete session recording (audio file)"
-      - "Follow-up email support for 7 days"
+      - "Email support for 7 days—questions about your session answered"
     cta_text: "Book Your Session"
     cta_link: "contact.html"
 
@@ -36,11 +36,11 @@ services:
     price: "$100"
     duration: "60 minutes"
     featured: false
-    description: "For clients who want to deepen their healing journey and integrate insights from their initial QHHT session."
+    description: "For clients who want to deepen their healing journey and fully integrate insights from their initial QHHT session into daily life."
     includes:
-      - "Discussion of insights from original session"
-      - "Guidance on integrating healing and messages"
-      - "Additional questions for Higher Self"
+      - "Discussion of insights from original session—helping you understand deeper layers"
+      - "Guidance on integrating healing and messages into your daily choices"
+      - "Additional questions for Higher Self—as new questions often arise"
       - "Session notes summary"
     cta_text: "Schedule Follow-Up"
     cta_link: "contact.html"
@@ -48,7 +48,7 @@ services:
 # --- FREE DISCOVERY CALL ---
 discovery_call:
   title: "Not sure if QHHT is right for you?"
-  description: "Book a free 20-minute discovery call. We'll discuss your intentions, I'll answer your questions about the QHHT process, and we'll explore whether this work is aligned with your needs right now."
+  description: "Book a free 20-minute discovery call—no pressure, no obligation. We'll discuss what you're hoping to explore, I'll answer your questions about the QHHT process, and together we'll explore whether this work feels aligned for you right now. This is a zero-pressure conversation to help you decide if QHHT resonates with you."
   duration: "20 minutes"
   price: "Free"
   cta_text: "Book Free Discovery Call"
@@ -89,25 +89,28 @@ faq:
       a: "Yes, I understand that investing in your healing is a significant decision. Payment plans can be arranged—please mention this when you contact me and we'll find an option that works for you."
 
     - q: "What's your cancellation policy?"
-      a: "Life happens, and I understand. Full refund if you need to cancel 7+ days before your session. 50% refund for 3-6 days notice. Unfortunately, I cannot offer refunds for cancellations within 48 hours, as I've reserved that entire day exclusively for you."
+      a: "I understand that circumstances change. You'll receive a full refund if you cancel 7+ days before your session, or 50% refund with 3-6 days notice. Cancellations within 48 hours cannot be refunded, as I've reserved that entire day exclusively for you."
 
     - q: "How do I prepare for my session?"
-      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of questions for your Higher Self, avoid caffeine the day of your session, wear comfortable clothing, and come with an open heart and curious mind."
+      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of 10-20 questions for your Higher Self, avoid caffeine the day of your session, wear comfortable clothing, and come with an open heart and curious mind."
 
     - q: "What if I've never been hypnotized before?"
       a: "Most of my clients haven't! QHHT hypnosis is gentle and natural—it's the same state you experience twice daily, just before falling asleep and just before waking up. Everyone can reach this state, and I'll guide you every step of the way."
 
+    - q: "What if nothing happens during my session?"
+      a: "This is a common concern, but in my experience, something always comes through. Your Higher Self always has information to share—though it may not always look the way you expect. Sometimes it's vivid imagery, sometimes it's subtle knowings, and sometimes it's deep emotional release. Trust that whatever comes is exactly what you need."
+
 # --- TESTIMONIAL (optional - leave blank if not ready) ---
 testimonial:
   enabled: true
-  quote: "My QHHT session with Laura was life-changing. I received answers to questions I'd been asking for years, and experienced healing I didn't even know I needed. The recording is a treasure I return to often."
+  quote: "My session with Laura gave me answers to questions I'd carried for years, and healing I didn't even know I needed. I return to the recording often—each time I notice something new."
   author: "Sarah M."
   location: "Portland, OR"
 
 # --- CALL TO ACTION ---
 cta:
   title: "Ready to Begin Your Journey?"
-  description: "Whether you're seeking healing, clarity, or deeper connection with your Higher Self, QHHT offers a profound path to transformation."
+  description: "Whether you're carrying pain you're ready to release, questions that keep you searching, or a deep calling to understand your purpose, QHHT offers a path to the answers and healing you're seeking."
   primary_button:
     text: "Book Your Session"
     link: "contact.html"
