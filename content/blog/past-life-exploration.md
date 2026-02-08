@@ -8,7 +8,7 @@ Past life imagery is one possible aspect of QHHT for some clients. It is not req
 
 ## How Past Life Exploration Can Appear
 
-During a QHHT session, after being guided into a deeply relaxed state, some clients find themselves experiencing scenes that feel like other times and places. These aren't random—your Higher Self chooses what is most relevant to your current questions and challenges. For others, the experience may be symbolic, emotional, or simply a clear inner knowing.
+During a QHHT session, after being guided into a deeply relaxed state, some clients find themselves experiencing scenes that feel like other times and places. These aren't random—your higher self chooses what is most relevant to your current questions and challenges. For others, the experience may be symbolic, emotional, or simply a clear inner knowing.
 
 The experience varies from person to person. Some see vivid, detailed scenes like watching a movie. Others receive impressions, feelings, or simply "know" information. All ways of experiencing are valid and meaningful.
 
@@ -47,7 +47,7 @@ When past-life imagery arises during QHHT, I'll guide you through several key mo
 - The death scene (experienced peacefully, as an observer)
 - The time between lives, where profound understanding often comes
 
-After the exploration portion, we connect with your Higher Self to gain deeper understanding of what you experienced and why it was shown to you.
+After the exploration portion, we connect with your higher self to gain deeper understanding of what you experienced and why it was shown to you.
 
 ## A Note on Belief
 
@@ -64,7 +64,7 @@ A common question is: "How do I know I'm not just making it up?" The experience 
 - Emotions feel genuinely connected to the experience
 - Insights "click" with current life situations in meaningful ways
 
-Your Higher Self guides the experience, ensuring you see what's most relevant and helpful for your growth.
+Your higher self guides the experience, ensuring you see what's most relevant and helpful for your growth.
 
 ## Final Thoughts
 

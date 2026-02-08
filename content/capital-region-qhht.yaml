@@ -15,7 +15,7 @@ seo:
 schema:
   business_description: "QHHT (Quantum Healing Hypnosis Technique) practitioner serving the New York Capital Region including Albany, Saratoga Springs, Troy, Schenectady, and surrounding communities."
   service_name: "QHHT for Capital Region Clients"
-  service_description: "Professional QHHT sessions at our Albany location, conveniently accessible from all Capital Region communities. Quantum healing, Higher Self connection, and transformational hypnosis."
+  service_description: "Professional QHHT sessions at our Albany location, conveniently accessible from all Capital Region communities. Quantum healing, higher self connection, and transformational hypnosis."
   faq_schema:
     items:
       - question: "Do you serve clients from outside Albany?"
@@ -31,14 +31,14 @@ schema:
 # Hero Section
 hero:
   title: "QHHT for the Capital Region"
-  subtitle: "Serving Saratoga Springs, Troy, Schenectady, Albany, and surrounding communities with professional quantum healing and Higher Self connection"
+  subtitle: "Serving Saratoga Springs, Troy, Schenectady, Albany, and surrounding communities with professional quantum healing and higher self connection"
 
 # Introduction
 intro:
   title: "QHHT Sessions for Capital Region Residents"
   paragraphs:
     - "Looking for QHHT in the Capital Region? You've found the right place. Clear Path is the Capital Region's certified QHHT practitioner, offering professional quantum healing sessions at our Albany location—conveniently accessible from Saratoga Springs, Troy, Schenectady, and surrounding communities."
-    - "QHHT (Quantum Healing Hypnosis Technique) is a specialized healing modality that requires extensive training and certification. Unlike traditional hypnotherapy or life coaching, QHHT accesses the deepest level of consciousness to facilitate direct communication with your Higher Self, deep inner exploration (which may include past-life imagery), and profound physical and emotional healing."
+    - "QHHT (Quantum Healing Hypnosis Technique) is a specialized healing modality that requires extensive training and certification. Unlike traditional hypnotherapy or life coaching, QHHT accesses the deepest level of consciousness to facilitate direct communication with your higher self, deep inner exploration (which may include past-life imagery), and profound physical and emotional healing."
     - "While the drive to Albany might seem inconvenient at first, most clients say the session is so transformative that they'd travel much farther. This is not a quick therapy appointment—it's a 4-6 hour journey into the depths of your consciousness that can shift your entire life trajectory."
 
 # Service Area
@@ -103,11 +103,11 @@ how_it_works:
     - title: "Block Out the Day"
       description: "QHHT sessions last 4-6 hours. Don't schedule anything else that day—you'll want time to integrate the experience. Plan to arrive 10-15 minutes early to settle in."
     - title: "Prepare Your Questions"
-      description: "You'll receive detailed preparation instructions including how to formulate questions for your Higher Self. This is key to getting the most from your session."
+      description: "You'll receive detailed preparation instructions including how to formulate questions for your higher self. This is key to getting the most from your session."
     - title: "Travel to Albany"
       description: "Use the directions above. Give yourself extra time if you're unfamiliar with Albany. The Center Square area is quiet and easy to navigate."
     - title: "Experience Your Session"
-      description: "Relax and trust the process. Your Higher Self knows exactly what you need. Laura will guide you safely through the entire journey."
+      description: "Relax and trust the process. Your higher self knows exactly what you need. Laura will guide you safely through the entire journey."
     - title: "Drive Home Mindfully"
       description: "Most clients feel peaceful and slightly dreamy after sessions—totally safe to drive, but take your time. Some clients prefer to stay in Albany for dinner to fully integrate before heading home."
 
