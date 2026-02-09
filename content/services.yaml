@@ -6,7 +6,7 @@
 # SEO Meta Data
 seo:
   title: "QHHT Pricing Albany NY | $350 Sessions | Clear Path"
-  description: "QHHT sessions $350 in Albany, NY. 4-6 hour session with Higher Self dialogue, deep relaxation, and healing. Free 20-min discovery call. Payment plans available. Book your transformation today."
+  description: "QHHT sessions $350 in Albany, NY. 4-6 hour session with higher self dialogue, deep relaxation, and healing. Free 20-min discovery call. Payment plans available. Book your transformation today."
 
 # --- PAGE HEADER ---
 header:
@@ -25,8 +25,8 @@ services:
     description: "A comprehensive quantum healing experience that provides deep answers, healing, and clarity you can use to transform your life."
     includes:
       - "Pre-session interview and question preparation"
-      - "Guided hypnosis and inner exploration—your Higher Self guides what you experience"
-      - "Higher Self dialogue and healing"
+      - "Guided hypnosis and inner exploration—your higher self guides what you experience"
+      - "higher self dialogue and healing"
       - "Complete session recording (audio file)"
       - "Email support for 7 days—questions about your session answered"
     cta_text: "Book Your Session"
@@ -40,7 +40,7 @@ services:
     includes:
       - "Discussion of insights from original session—helping you understand deeper layers"
       - "Guidance on integrating healing and messages into your daily choices"
-      - "Additional questions for Higher Self—as new questions often arise"
+      - "Additional questions for higher self—as new questions often arise"
       - "Session notes summary"
     cta_text: "Schedule Follow-Up"
     cta_link: "contact.html"
@@ -57,19 +57,15 @@ discovery_call:
 # --- WHAT'S INCLUDED CALLOUT ---
 session_details:
   title: "What to Expect in Your QHHT Session"
-  intro: "Every QHHT session is unique, but here's the general flow:"
+  intro: "Every QHHT session is unique, but here's the general flow. Sessions take as long as they take, so please plan for a full day of self-care and avoid scheduling anything afterward. Most people find the hypnosis portion easy and deeply relaxing."
   steps:
-    - title: "Interview & Preparation"
-      time: "60-90 minutes"
-      description: "We'll have an unhurried conversation about your life, your questions, and what you hope to explore and heal."
+    - title: "Life History & Preparation"
+      time: "1+ hours (often ~2)"
+      description: "You'll share your life history from beginning to present, along with your questions and what you hope to explore and heal. This sharing portion can take longer if needed."
 
     - title: "Hypnosis & Inner Exploration"
       time: "2-3 hours"
-      description: "You'll be guided into the Somnambulistic state to explore whatever your Higher Self brings forward—memories, symbols, insights, or past-life imagery."
-
-    - title: "Higher Self Dialogue"
-      time: "30-60 minutes"
-      description: "Your Higher Self will answer your prepared questions and provide healing where appropriate."
+      description: "You'll be guided into the theta brainwave state to explore whatever your higher self brings forward—memories, symbols, insights, or past-life imagery. Your questions will be addressed, and most clients find the experience easy and relaxing. This portion can also take longer if needed."
 
     - title: "Closing & Integration"
       time: "15-30 minutes"
@@ -80,7 +76,7 @@ faq:
   title: "Frequently Asked Questions"
   questions:
     - q: "How long is a QHHT session?"
-      a: "Most sessions take 4-6 hours. This includes the initial interview (60-90 min), the hypnosis portion (2-3 hours), and closing discussion (15-30 min). I never rush—each session unfolds at its own perfect pace."
+      a: "Most sessions take 4-6 hours, but occasionally they can run longer—up to 10 hours in rare cases. This includes the initial conversation (1+ hours, often ~2), the hypnosis portion (typically 2-3 hours), and closing discussion (15-30 min). Sessions take as long as they take, so please plan for a full day of self-care and avoid scheduling anything afterward."
 
     - q: "What's included in the session price?"
       a: "Your session includes the full QHHT experience, a complete audio recording of your session, and 7 days of follow-up email support. You'll be able to listen to your session recording as many times as you wish for continued integration."
@@ -89,23 +85,23 @@ faq:
       a: "Yes, I understand that investing in your healing is a significant decision. Payment plans can be arranged—please mention this when you contact me and we'll find an option that works for you."
 
     - q: "What's your cancellation policy?"
-      a: "I understand that circumstances change. You'll receive a full refund if you cancel 7+ days before your session, or 50% refund with 3-6 days notice. Cancellations within 48 hours cannot be refunded, as I've reserved that entire day exclusively for you."
+      a: "I understand that circumstances change. You'll receive a full refund if you cancel 7+ days before your session, or 50% refund with 3-6 days notice. Cancellations within 24 hours cannot be refunded, as I've reserved that entire day exclusively for you."
 
     - q: "How do I prepare for my session?"
-      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of 10-20 questions for your Higher Self, avoid caffeine the day of your session, wear comfortable clothing, and come with an open heart and curious mind."
+      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of 10-20 questions for your higher self, avoid caffeine the day of your session, wear comfortable clothing, and come with an open heart and curious mind. Please do not wear perfume, cologne, or strong scents due to sensitivities."
 
     - q: "What if I've never been hypnotized before?"
-      a: "Most of my clients haven't! QHHT hypnosis is gentle and natural—it's the same state you experience twice daily, just before falling asleep and just before waking up. Everyone can reach this state, and I'll guide you every step of the way."
+      a: "Most of my clients haven't! QHHT hypnosis is gentle and natural—it's the same state you experience twice daily, just before falling asleep and just before waking up. Most people find it easy and relaxing, and I'll guide you every step of the way."
 
     - q: "What if nothing happens during my session?"
-      a: "This is a common concern, but in my experience, something always comes through. Your Higher Self always has information to share—though it may not always look the way you expect. Sometimes it's vivid imagery, sometimes it's subtle knowings, and sometimes it's deep emotional release. Trust that whatever comes is exactly what you need."
+      a: "This is a common concern, but in my experience, something always comes through. Your higher self always has information to share—though it may not always look the way you expect. Sometimes it's vivid imagery, sometimes it's subtle knowings, and sometimes it's deep emotional release. Trust that whatever comes is exactly what you need."
 
 # --- TESTIMONIAL (optional - leave blank if not ready) ---
 testimonial:
   enabled: true
-  quote: "My session with Laura gave me answers to questions I'd carried for years, and healing I didn't even know I needed. I return to the recording often—each time I notice something new."
-  author: "Sarah M."
-  location: "Portland, OR"
+  quote: "Laura Welles is absolutely amazing! I had a session with her and wow 💥 what she uncovered was truly mind-blowing. It helped me jump timelines, dissolve layers of self-limiting beliefs, and step into a whole new level of clarity and empowerment. ❤️‍🔥"
+  author: "Rumi, Founder of Inti Joy"
+  location: "North Carolina, USA"
 
 # --- CALL TO ACTION ---
 cta:

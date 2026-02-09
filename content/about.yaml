@@ -52,7 +52,7 @@ qhht:
     paragraphs:
       - "Quantum Healing Hypnosis Technique (QHHT) was developed by Dolores Cannon over her 45-year career as a hypnotherapist. Through thousands of sessions, Dolores discovered something remarkable: when clients reached the Somnambulistic state—a deep level of hypnosis—they could access the part of themselves that holds all the answers."
 
-      - "Dolores called this the \"Subconscious,\" though many practitioners use the term \"Higher Self.\" This is the part of you that holds all wisdom about your life and can provide healing, answers, and direction when you need it most."
+      - "Dolores called this the \"Subconscious,\" though many practitioners use the term \"higher self.\" This is the part of you that holds all wisdom about your life and can provide healing, answers, and direction when you need it most."
 
   how_it_works:
     title: How QHHT Works
@@ -61,17 +61,17 @@ qhht:
         description: "This is the same state you experience twice daily: just before waking and just before falling asleep. In QHHT sessions, you're guided into this natural state where you can access insights and wisdom normally hidden from your conscious mind—while remaining aware and able to speak."
 
       - title: Inner Exploration
-        description: "During a QHHT session, you may experience past lives, current-life memories, symbolic imagery, or simply receive knowing and insight. You don't need to believe in past lives for QHHT to work—your Higher Self shows you exactly what's most helpful for you. The form it takes is unique to you and always relevant to your current life."
+        description: "During a QHHT session, you may experience past lives, current-life memories, symbolic imagery, or simply receive knowing and insight. You don't need to believe in past lives for QHHT to work—your higher self shows you exactly what's most helpful for you. The form it takes is unique to you and always relevant to your current life."
 
-      - title: The Higher Self
-        description: "Once in the Somnambulistic state, direct communication with your Higher Self becomes possible. Your Higher Self knows everything about you, your life purpose, and has the ability to provide instantaneous healing when appropriate."
+      - title: The higher self
+        description: "Once in the Somnambulistic state, direct communication with your higher self becomes possible. Your higher self knows everything about you, your life purpose, and has the ability to provide instantaneous healing when appropriate."
 
       - title: Healing & Transformation
-        description: "The Higher Self has the ability to identify and explain the cause of any problem or disease, and can perform instantaneous healings when appropriate. Many physical, emotional, and spiritual issues can be resolved."
+        description: "The higher self has the ability to identify and explain the cause of any problem or disease, and can perform instantaneous healings when appropriate. Many physical, emotional, and spiritual issues can be resolved."
 
   unique:
     title: What Makes QHHT Unique
-    intro: "Unlike other hypnosis techniques, QHHT facilitates direct contact with your Higher Self. Every session is unique—your Higher Self shows you exactly what you need to see. These are some of the kinds of benefits clients may experience:"
+    intro: "Unlike other hypnosis techniques, QHHT facilitates direct contact with your higher self. Every session is unique—your higher self shows you exactly what you need to see. These are some of the kinds of benefits clients may experience:"
     items:
       - Understanding your life purpose and soul contracts—so you can live with intention
       - Healing physical conditions at their energetic root—often where other approaches haven't worked
@@ -87,7 +87,7 @@ qhht:
 # --- CALL TO ACTION ---
 cta:
   title: Ready to Experience QHHT?
-  description: If you feel called to explore your consciousness and connect with your Higher Self, I'd be honored to guide you on this journey.
+  description: If you feel called to explore your consciousness and connect with your higher self, I'd be honored to guide you on this journey.
   button:
     text: Book Your Session
     link: contact.html

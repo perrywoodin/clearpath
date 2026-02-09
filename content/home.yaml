@@ -6,7 +6,7 @@
 # SEO Meta Data
 seo:
   title: "QHHT Sessions Albany NY | Quantum Healing | Clear Path"
-  description: "Experience profound healing with QHHT in Albany, NY. Certified practitioner Laura Welles offers Higher Self connection, deep relaxation, and transformation. Book your session today."
+  description: "Experience profound healing with QHHT in Albany, NY. Certified practitioner Laura Welles offers higher self connection, deep relaxation, and transformation. Book your session today."
 
 # --- HERO SECTION (top of page) ---
 hero:
@@ -24,16 +24,16 @@ hero:
 # --- INTRO SECTION (below hero) ---
 intro:
   icon: "🌱"
-  text: Located in Albany, New York, Clear Path offers professional Quantum Healing Hypnosis Technique sessions in a welcoming, dedicated healing space. If you've been searching for answers that conventional approaches haven't provided—or if you feel called to explore the deeper dimensions of your own consciousness—QHHT may be for you. This powerful method developed by Dolores Cannon guides you into a deeply relaxed state where you can connect with your Higher Self, explore meaningful inner experiences, and receive the healing and guidance you've been seeking. Skepticism is welcome—your experience will speak for itself.
+  text: Located in Albany, New York, Clear Path offers professional Quantum Healing Hypnosis Technique sessions in a welcoming, dedicated healing space. If you've been searching for answers that conventional approaches haven't provided—or if you feel called to explore the deeper dimensions of your own consciousness—QHHT may be for you. This powerful method developed by Dolores Cannon guides you into a deeply relaxed state where you can connect with your higher self, explore meaningful inner experiences, and receive the healing and guidance you've been seeking. Skepticism is welcome—your experience will speak for itself.
 
 # --- BENEFITS SECTION ---
 benefits:
   title: Possible Areas of Support
-  subtitle: Every session is unique and guided by your Higher Self. What emerges is exactly what you need.
+  subtitle: Every session is unique and guided by your higher self. What emerges is exactly what you need.
   items:
     - icon: "✨"
       title: Deep Healing
-      description: Address physical, emotional, and spiritual challenges at their root. Relief from persistent pain, illness, and emotional burdens is one of the most common outcomes—allowing clients to reclaim energy and joy in their daily lives.
+      description: Address physical, emotional, and spiritual challenges at their root. Some clients report relief from persistent pain, illness, and emotional burdens—supporting more energy and ease in daily life.
 
     - icon: "🌟"
       title: Life Purpose Clarity
@@ -41,11 +41,11 @@ benefits:
 
     - icon: "🔮"
       title: Inner Exploration
-      description: Explore meaningful inner experiences—memories, symbols, or past-life imagery—guided by your Higher Self. Every journey is unique.
+      description: Explore meaningful inner experiences—memories, symbols, or past-life imagery—guided by your higher self. Every journey is unique.
 
     - icon: "🪷"
-      title: Higher Self Connection
-      description: Establish a direct connection with your Higher Self for guidance, wisdom, and answers to your most important questions—so you can move forward with clarity instead of doubt.
+      title: higher self Connection
+      description: Establish a direct connection with your higher self for guidance, wisdom, and answers to your most important questions—so you can move forward with clarity instead of doubt.
 
     - icon: "🌸"
       title: Personal Transformation
@@ -61,13 +61,13 @@ process:
   subtitle: What to expect during your transformative experience
   steps:
     - title: Prepare Questions
-      description: Before your session, create a list of questions about your life—relationships, health, life purpose, or anything else you're seeking clarity on. These questions guide your Higher Self to address what matters most to you.
+      description: Before your session, create a list of questions about your life—relationships, health, life purpose, or anything else you're seeking clarity on. These questions guide your higher self to address what matters most to you.
 
-    - title: Conversation
-      description: We begin with a thorough conversation about your life. You share your intentions and questions for the session.
+    - title: Life History
+      description: You share your life history, from beginning to present, along with your intentions and questions for the session.
 
     - title: Hypnosis
-      description: "You'll be guided into the Theta state—deeply relaxed yet fully aware—to access whatever is most relevant for you: memories, symbols, insights, or past-life imagery."
+      description: "You'll be guided into the theta brainwave state—deeply relaxed yet fully aware—to access whatever is most relevant for you: memories, symbols, insights, or past-life imagery. Most clients find this part easy and relaxing."
 
     - title: Integration
       description: We have a brief conversation about your session, and you’ll be provided a recording to listen to afterward.
