@@ -19,7 +19,7 @@ schema:
   faq_schema:
     items:
       - question: "What type of hypnotherapy do you practice in Albany?"
-        answer: "I practice QHHT (Quantum Healing Hypnosis Technique), which accesses the Somnambulistic state—the deepest level of hypnosis. This is different from traditional hypnotherapy, which typically works at lighter levels for behavior change."
+        answer: "I practice QHHT (Quantum Healing Hypnosis Technique), which accesses the theta brainwave state—the deepest level of hypnosis. This is different from traditional hypnotherapy, which typically works at lighter levels for behavior change."
         last: false
       - question: "What can hypnotherapy help with?"
         answer: "QHHT hypnotherapy can address chronic pain, anxiety, depression, trauma, phobias, relationship patterns, life purpose questions, and physical healing. Many clients experience transformation that goes beyond symptom relief to address root causes."
@@ -38,7 +38,7 @@ intro:
   title: "QHHT Hypnotherapy in Albany, NY"
   paragraphs:
     - "If you're searching for hypnotherapy in Albany, you've likely tried conventional approaches and are looking for something deeper. QHHT (Quantum Healing Hypnosis Technique) offers a fundamentally different experience than traditional hypnotherapy—one that addresses not just symptoms, but the root causes of your challenges."
-    - "While traditional hypnotherapy works at lighter levels of consciousness for behavior modification (quitting smoking, weight loss, confidence building), QHHT guides you into the Somnambulistic state—the deepest level of hypnosis where profound healing, spiritual exploration, and lasting transformation occur."
+    - "While traditional hypnotherapy works at lighter levels of consciousness for behavior modification (quitting smoking, weight loss, confidence building), QHHT guides you into the theta brainwave state—the deepest level of hypnosis where profound healing, spiritual exploration, and lasting transformation occur."
     - "As a certified QHHT practitioner in Albany, I help clients access their higher self, explore meaningful inner material (sometimes past-life imagery), heal trauma at its source, and receive answers to life's biggest questions. This isn't about suggestion or behavior change—it's about discovering your inner wisdom and allowing healing to emerge from within."
 
 # Why Choose
@@ -50,7 +50,7 @@ why_choose:
     items:
       - icon: "🧠"
         title: "Deepest Level of Hypnosis"
-        description: "QHHT accesses the Somnambulistic state (the level you pass through just before sleep), while traditional hypnotherapy typically uses lighter states. This depth allows for profound healing and spiritual experiences."
+        description: "QHHT accesses the theta brainwave state (the level you pass through just before sleep), while traditional hypnotherapy typically uses lighter states. This depth allows for profound healing and spiritual experiences."
       - icon: "🎯"
         title: "Root Cause Healing"
         description: "Instead of using suggestion to modify behavior, QHHT helps you discover why patterns exist (often in early life experiences or deeper layers of consciousness), allowing true healing rather than symptom management."
@@ -67,10 +67,10 @@ how_it_works:
   intro_text:
     - "QHHT follows a structured process developed over 45+ years by Dolores Cannon and refined through thousands of sessions worldwide."
   steps:
-    - title: "Conversation & Trust Building"
+    - title: "Life History & Trust Building"
       description: "We begin with 1-2 hours of conversation where I learn your story, understand your challenges, and hear the questions you want answered. This builds the trust essential for deep hypnotic work."
     - title: "Guided Induction"
-      description: "Using visualization and progressive relaxation, I guide you into the Somnambulistic state. This is a natural state—you're not unconscious, but deeply relaxed and highly receptive."
+      description: "Using visualization and progressive relaxation, I guide you into the theta brainwave state. This is a natural state—you're not unconscious, but deeply relaxed and highly receptive. Most people find it easy and calming."
     - title: "Subconscious Exploration"
       description: "Your higher self guides where we go—this might include childhood memories, symbolic landscapes, or past-life imagery. Whatever emerges is exactly what you need for healing."
     - title: "higher self Dialogue"
@@ -105,7 +105,7 @@ service_area:
   office_details:
     title: "Why In-Person Hypnotherapy?"
     paragraphs:
-      - "While some hypnotherapy can be done virtually, QHHT's depth requires in-person sessions. The safety and energetic container of a dedicated healing space allows you to reach the Somnambulistic state more easily and stay there longer."
+      - "While some hypnotherapy can be done virtually, QHHT's depth requires in-person sessions. The safety and energetic container of a dedicated healing space allows you to reach the theta brainwave state more easily and stay there longer."
       - "My Albany office is specifically designed for this work—comfortable, private, and free from interruptions so you can fully surrender to the healing process."
 
 # FAQ
