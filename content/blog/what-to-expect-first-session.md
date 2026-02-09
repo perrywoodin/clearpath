@@ -16,7 +16,7 @@ This time together helps me understand you and your journey, and it helps you fe
 
 ## The Hypnosis Journey (2-3 hours)
 
-After our life-history sharing, you'll get comfortable—usually lying down in a relaxed position. I'll guide you into the theta brainwave state, which is the deepest level of hypnosis. This is the same natural state you pass through twice every day: just before falling asleep and just before waking up. Most people find it easy to relax into this state.
+After our life-history sharing, you'll get comfortable—usually lying down in a relaxed position. I'll guide you into the theta brainwave state, a deep state of hypnosis. This is the same natural state you pass through twice every day: just before falling asleep and just before waking up. Most people find it easy to relax into this state.
 
 Many people worry they won't be "hypnotizable," but the truth is, everyone experiences this state naturally. You'll remain aware and able to speak throughout the session. You're always in control and can never be made to do or say anything against your will.
 
