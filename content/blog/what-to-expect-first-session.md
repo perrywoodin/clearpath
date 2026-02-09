@@ -24,14 +24,6 @@ Many people worry they won't be "hypnotizable," but the truth is, everyone exper
 
 Once you're in the deep state, you may experience a range of inner material—memories, symbolic scenes, feelings, or simple knowing. Some people do encounter past-life imagery, while others do not. Your higher self shows you exactly what's relevant to your current life questions and challenges, and every experience is unique and valid.
 
-## Connecting with Your higher self
-
-After the exploration portion, I'll call forth your higher self (also called the Subconscious or SC). This is often the most powerful part of the session. Your higher self has infinite knowledge and understanding about you, your life, and your purpose.
-
-I'll ask your prepared questions, and your higher self will provide answers. The responses are often profound, sometimes surprising, and occasionally humorous. Your higher self loves you unconditionally and wants you to understand and thrive.
-
-If healing is appropriate, your higher self may perform instantaneous healing. I've witnessed remarkable healings of physical conditions, emotional traumas, and spiritual blocks. However, it's important to understand that the higher self only heals when it's appropriate for your growth and journey.
-
 ## After the Session
 
 When the hypnosis portion is complete, I'll gently bring you back to full waking consciousness. Many people feel incredibly relaxed, peaceful, and sometimes emotional. We'll take some time to discuss your experience, and I'll share observations from your session. Sessions can take 4 hours or, in rare cases, up to 10 hours—so please plan for a full day of self-care and avoid scheduling anything afterward.
