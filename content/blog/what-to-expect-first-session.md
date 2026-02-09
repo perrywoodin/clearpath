@@ -26,7 +26,7 @@ Once you're in the deep state, you may experience a range of inner material—me
 
 ## After the Session
 
-When the hypnosis portion is complete, I'll gently bring you back to full waking consciousness. Many people feel incredibly relaxed, peaceful, and sometimes emotional. We'll take some time to discuss your experience, and I'll share observations from your session. Sessions can take 4 hours or, in rare cases, up to 10 hours—so please plan for a full day of self-care and avoid scheduling anything afterward.
+When the hypnosis portion is complete, I'll gently bring you back to full waking consciousness. Many people feel incredibly relaxed, peaceful, and sometimes emotional. We'll take some time to discuss your experience, and I'll share observations from your session. Sessions can take 4 hours or, in very rare cases, up to 10 hours—so please plan for a full day of self-care and avoid scheduling anything afterward. This is a journey inward, and we don't want to put a time limit on it or feel the need to stop prematurely for another engagement. You may also want to preserve time after your appointment for quiet reflection, especially given the relaxed state from hypnosis.
 
 You'll receive an audio recording of your entire session. This recording is precious—many clients report that listening to it again reveals insights they didn't catch the first time, and the healing continues with each listening.
 
