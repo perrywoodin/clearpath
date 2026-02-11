@@ -36,12 +36,10 @@ services:
     price: "$100"
     duration: "60 minutes"
     featured: false
-    description: "For clients who want to deepen their healing journey and fully integrate insights from their initial QHHT session into daily life."
+    description: "For clients who want space to talk through their initial QHHT session and receive gentle guidance for integration."
     includes:
       - "Discussion of insights from original session—helping you understand deeper layers"
       - "Guidance on integrating healing and messages into your daily choices"
-      - "Additional questions for higher self—as new questions often arise"
-      - "Session notes summary"
     cta_text: "Schedule Follow-Up"
     cta_link: "contact.html"
 
