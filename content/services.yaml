@@ -86,7 +86,7 @@ faq:
       a: "I understand that circumstances change. You'll receive a full refund if you cancel 7+ days before your session, or 50% refund with 3-6 days notice. Cancellations within 24 hours cannot be refunded, as I've reserved that entire day exclusively for you."
 
     - q: "How do I prepare for my session?"
-      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of 10-20 questions for your higher self, avoid caffeine the day of your session, wear comfortable clothing, and come with an open heart and curious mind. Please do not wear perfume, cologne, or strong scents due to sensitivities."
+      a: "Once you book, I'll send you a detailed preparation guide. The main things are: create a list of questions for your higher self. There’s no required number, but if you keep it to 20 or fewer, we can almost always cover them all. Try to avoid caffeine the day of your session. Wear comfortable clothing, and come with an open heart and curious mind. Please do not wear perfume, cologne, or strong scents due to sensitivities."
 
     - q: "What if I've never been hypnotized before?"
       a: "Most of my clients haven't! QHHT hypnosis is gentle and natural—it's the same state you experience twice daily, just before falling asleep and just before waking up. Most people find it easy and relaxing, and I'll guide you every step of the way."
@@ -104,7 +104,7 @@ testimonial:
 # --- CALL TO ACTION ---
 cta:
   title: "Ready to Begin Your Journey?"
-  description: "Whether you're carrying pain you're ready to release, questions that keep you searching, or a deep calling to understand your purpose, QHHT offers a path to the answers and healing you're seeking."
+  description: "Whether you’re ready to release pain, seeking clear answers, or feeling a deep call to understand your purpose, QHHT offers a supportive path toward insight and healing."
   primary_button:
     text: "Book Your Session"
     link: "contact.html"

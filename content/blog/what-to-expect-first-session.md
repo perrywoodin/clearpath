@@ -10,9 +10,9 @@ If you're considering your first QHHT session, you might feel a mix of excitemen
 
 Your QHHT session begins with an in-depth life history. This isn't just small talk—it's a crucial part of the process. You'll share your life story from early on to the present, and we'll discuss what brings you to QHHT, what you're hoping to explore, and any questions you have for your higher self.
 
-I'll ask you to bring a list of questions you'd like answered. These might be about your health, relationships, life purpose, recurring patterns, or anything else that's important to you. There's no limit to what you can ask. This time is also when I'll explain exactly how the hypnosis process works and answer any concerns you might have.
+I'll ask you to bring a list of questions you'd like answered. These might be about your health, relationships, life purpose, recurring patterns, or anything else that's important to you. There's no limit to what you can ask. This is also when I'll explain exactly how the hypnosis process works and answer any concerns you might have.
 
-This time together helps me understand you and your journey, and it helps you feel comfortable and safe. Building trust and rapport is essential for a successful session. Most conversations run about 2 hours, but they can take longer if needed.
+This time together helps me understand you and your journey, and it helps you feel comfortable. Most conversations run about 2 hours, but they can take longer if needed.
 
 ## The Hypnosis Journey (2-3 hours)
 
