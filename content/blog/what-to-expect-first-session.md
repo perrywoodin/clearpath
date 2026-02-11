@@ -36,7 +36,7 @@ To get the most from your QHHT session, here are some suggestions:
 
 - Write down all your questions in advance. Don't hold back—ask everything you truly want to know.
 - Clear your schedule for the entire day. Sessions typically take 4-6 hours, and you won't want to rush.
-- Avoid caffeine on the day of your session, as it can interfere with reaching the deep hypnotic state.
+- Try to avoid caffeine on the day of your session. If you can't avoid it, then just cut back on it.
 - Come with an open mind and heart. Trust the process and your higher self.
 - Wear comfortable clothing and plan to be relaxed.
 
