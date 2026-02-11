@@ -74,17 +74,12 @@ process:
 
 # --- LOCATION SECTION ---
 location:
-  title: "Serving the Capital Region"
+  title: "Serving the Capital Region and Beyond"
   subtitle: "Conveniently located in Albany's wellness community"
   address: "560 Delaware Ave, Albany, NY 12209"
   maps_link: "https://www.google.com/maps?q=560%20Delaware%20Ave%2C%20Albany%2C%20NY%2012209"
   embed_url: "https://www.google.com/maps?q=560%20Delaware%20Ave%2C%20Albany%2C%20NY%2012209&output=embed"
   description: "Clear Path is located at 560 Delaware Ave in Albany, NY, within a building shared with complementary healing practitioners including massage therapy and acupuncture. Our dedicated office space is designed to feel calm, welcoming, and supportive—the perfect environment for your QHHT session."
-  serving_areas:
-    - "Albany, NY"
-    - "Saratoga Springs"
-    - "Troy & Schenectady"
-    - "Capital Region"
 
 # --- CALL TO ACTION SECTION (bottom of page) ---
 cta:
