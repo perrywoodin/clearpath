@@ -25,7 +25,7 @@ form:
 # --- CONTACT PREFERENCE ---
 contact_preference:
   title: "Prefer Email Communication?"
-  description: "I respond to all inquiries within 24 hours. Everything is coordinated via email, making it easy to schedule at your convenience—no phone tag required."
+  description: "I respond to all inquiries within 48 hours. Everything is coordinated via email, making it easy to schedule at your convenience—no phone tag required."
   icon: "✉️"
 
 # --- CONTACT INFO CARDS ---
@@ -50,6 +50,7 @@ privacy:
 next_steps:
   title: What Happens Next?
   paragraphs:
+    - "I welcome clients from across the Northeast and beyond, including the Capital Region, Hudson Valley (Hudson, NY), Catskills, Berkshires, and throughout New England and the Mid-Atlantic."
     - "After you submit your inquiry, I'll review your message and respond within 24-48 hours. We'll discuss what you're hoping to explore or heal, answer any questions you have, and find a date that works for both of us."
     - "QHHT sessions take 4-6 hours because profound healing can't be rushed. Your higher self needs time to fully explore what you need and provide complete answers. This is time set aside entirely for you—a rare gift in our busy lives. Please ensure you can commit to this sacred time."
 
